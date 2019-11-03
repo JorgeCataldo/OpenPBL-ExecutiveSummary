@@ -6,7 +6,7 @@
   <a href="#presentation">PRESENTATION</a>  |
   <a href="#storytelling">STORYTELLING</a>  |
   <a href="#executive_summary">EXECUTIVE SUMMARY</a>  |
-  <a href="https://drive.google.com/open?id=13KPg3aKLpEGyFt1RKpcl_v5G5sD4SK5Z">FINANCIAL PLAN</a>  |
+  <a href="http://bit.ly/lindalia_19nov03">FINANCIAL PLAN</a>  |
   <br><br>
   <img src="img/logo1_fundo_branco_small.png">
 </p>
