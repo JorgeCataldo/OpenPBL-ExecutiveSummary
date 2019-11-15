@@ -1,5 +1,5 @@
 <head>
-  <meta http-equiv='refresh' content='0; URL=http://bit.ly/WeLearnPitchDeck'>
+  <meta http-equiv='refresh' content='2; URL=http://bit.ly/WeLearnPitchDeck'>
 </head>
 
 This document has changed. <br>
