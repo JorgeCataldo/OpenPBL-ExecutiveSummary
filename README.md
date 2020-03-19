@@ -11,7 +11,7 @@
 <a name="english"></a>
 <br>
 
-### OPEN-PBL BUSINESS PLAN EXECUTIVE SUMMARY 
+### OPEN-PBL EXECUTIVE SUMMARY 
 Executive summary of the 2020 fundraising Business Plan.<br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
@@ -42,8 +42,8 @@ Companies are increasingly demanding professionals from **all hierarchical level
 <a name="spanish"></a> 
 <br>
 
-### OPEN-PBL - PRESENTACIÓN DE IDEA DE NEGOCIO
-Resumen del roadshow de recaudación de fondos de 2020.
+### RESUMEN EJECUTIVO OPEN-PBL
+Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 
 **...**
 
@@ -73,8 +73,8 @@ Resumen del roadshow de recaudación de fondos de 2020.
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL - PROPOSTA DE IDEIA DE NEGÓCIO
-Resumo do *road show* de 2020 para captação de recursos.
+### OPEN-PBL - SUMÁRIO EXECUTIVO
+Resumo da execução do Plano de Negócios de 2020 para captação de recursos.
 
 **A OPORTUNIDADE E A PROPOSTA** <br>
 Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. No entanto, apesar dessa crescente oportunidade de mercado, a oferta de programas educacionais que desenvolvem esse tipo de habilidade não acompanha o aumento da demanda. 
@@ -107,11 +107,11 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
 <a name="chinese"></a> 
 <br>
 
-### OPEN-PBL-经营理念
-2020年筹款路演摘要。
+### OPEN-PBL执行摘要
+2020年筹款业务计划的执行摘要。<br>
 
-...
 （很快也有中文版本）
+
 ...
 
 *1。 对<a href="http://bit.ly/NDA-OpenPBL"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
