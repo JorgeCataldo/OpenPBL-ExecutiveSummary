@@ -11,15 +11,15 @@
 <a name="english"></a>
 <br>
 
-### OPEN-PBL BUSINESS IDEA PITCH 
-Summary of the 2020 fundraising roadshow. <br>
+### OPEN-PBL BUSINESS PLAN EXECUTIVE SUMMARY 
+Executive summary of the 2020 fundraising Business Plan.<br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
 Companies are increasingly demanding professionals from **all hierarchical levels** to develop the **behavioral skills** that allow them, not only to achieve the **expected results** but to achieve them in the **most efficient** way possible.However, despite this growing market opportunity, the offer of educational programs that aim to develop this type of skill does not keep up with the increase in demand.
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. The "Non Disclousure Agreement" for access to the **business plan** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
 
 *2. For more details of OpenPBL professional school, see a <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#english">storytelling</a> of its standard product (only the portuguese version available).*
 
@@ -50,7 +50,7 @@ Resumen del roadshow de recaudación de fondos de 2020.
 (Pronto también disponible en la versión en español)
 ...
 
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. El "Acuerdo de no divulgación" para el acceso al **plan de negocios** está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
 
 *2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
 
@@ -82,7 +82,7 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
 
 ... 
 
-*1. O NDA para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL Non Disclousure Agreement</a>.*
+*1. O NDA para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL Non Disclousure Agreement</a>.*
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese">storytelling</a> do seu produto-tipo.* 
 
