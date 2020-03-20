@@ -74,7 +74,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 ### OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do Plano de Negócios de 2020 para captação de recursos.
+Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
 Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. 
