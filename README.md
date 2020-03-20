@@ -89,15 +89,8 @@ Dentre as competências comportamentais **profissionais** mais demandadas, temos
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/sum_quadro1.png"></th> 
-    <th><img src="img/sum_sofia1.png"><a href="https://youtu.be/WyKZC7nhQZw">Ver vídeo</a></th>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <th><img src="img/sum_quadro1.png"></th> 
-    <th><a href="https://youtu.be/WyKZC7nhQZw"><img src="img/sum_sofia1.png"></a></th>
+    <th><img src="img/sum_quadro12.png"></th> 
+    <th><img src="img/sum_sofia1.png"><a href="https://youtu.be/WyKZC7nhQZw">Ver vídeo da entrevista</a></th>
   </tr>
 </table>
 
