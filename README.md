@@ -114,8 +114,7 @@ Grande parte do desequilibrio no mercado educacional ocorre porque as escolas qu
     <th><img src="img/sum_minerva1.png"></th> 
   </tr>
 </table>
-<p align="center">
-  *Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.*
+<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
 </p>
 
 <br>
