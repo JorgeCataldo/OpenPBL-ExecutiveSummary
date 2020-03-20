@@ -148,17 +148,9 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 
 <p align="center"><img src="img/sum_processo1.png"></p>
 
-<br>
+<p align="center"><img src="img/sum_processo2.png"></p>
 
-<p align="center">
-  <img src="img/sum_processo2.png">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="img/sum_processo3.png">
-</p> 
+<p align="center"><img src="img/sum_processo3.png"></p> 
 
 <br> 
 
