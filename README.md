@@ -81,17 +81,31 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
 
 <table style="width:100%">
   <tr>
-    <th><img src="img/sum_sofia1.png"></th>
     <th><img src="img/sum_quadro1.png"></th> 
+    <th><img src="img/sum_sofia1.png"></th>
   </tr>
 </table>
 
-No entanto, apesar dessa crescente oportunidade de mercado, a oferta de programas educacionais que desenvolvem esse tipo de habilidade não acompanha o aumento da demanda. 
 
-Este **desequilibrio do mercado educacional** configura a **janela de oportunidades** a ser explorada neste plano de negócios.
+
+
+No entanto, apesar da crescente demanda por parte das empresas e, por extensão, do aumento da demanda de **profissionais** e **entrantes** no mercado de trabalho por **programas educacionais** que desenvolvem esse tipo de habilidade, a oferta **não acompanha esse aumento**. 
+
+Este **desequilibrio** pontual do mercado educacional, em conjunto com a viabilidade econômica de novas tecnologias aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada.
+
+**COMPETÊNCIAS COMPORTAMENTAIS** <br>
+**Competências comportamentais profissionais** são competências **individuais**, resultantes do **emprego contínuo** das competências técnicas em **condições reais** de incerteza, assimetria de informação, restrições de recursos e pressões diversas, segundo as restrições do portfolio de **habilidades comportamentais individuais** de cada profissional. 
+
+São exemplos de competências comportamentais:
+- Estruturação de problemas mal definidos; 
+- Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
+- Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
+- Atuação sob pressão de prazo, desempenho e opiniões diversas; 
+- Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
+- Visão orçamentária, atitude empreendedora e outras mais.
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
-Grande parte do desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem **habilidades comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. 
+Grande parte do desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem as **competências comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. 
 
 É o caso das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais e, portanto, candidata natural para reduzir este desequilibrio do mercado. <br>
 
@@ -102,7 +116,7 @@ Grande parte do desequilibrio no mercado educacional ocorre porque as escolas qu
   </tr>
 </table>
 
-Mesmo com a popularização das **Edtechs**, ainda não é possível encontrar **sistemas educacionais**  baseados na PBL que possam expandir as suas atividades. Os dois principais obstáculos à escalabilidade dos modelos PBL podem ser resumidos em:
+Mesmo com a popularização das **Edtechs**, ainda não é possível encontrar **sistemas educacionais**  baseados na PBL que possam expandir as suas atividades. Os dois principais **obstáculos** à escalabilidade dos modelos baseados em PBL podem ser resumidos em:
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
