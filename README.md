@@ -85,7 +85,7 @@ Dentre as competências comportamentais **profissionais** mais demandadas, temos
 - Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
 - Atuação sob pressão de prazo, desempenho e opiniões diversas; 
 - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária, atitude empreendedora.<br>
+- Visão orçamentária, atitude empreendedora.<br><br>
 
 <table style="width:100%">
   <tr>
