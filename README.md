@@ -127,32 +127,19 @@ Os dois principais **obstáculos** à escalabilidade dos modelos baseados em PBL
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um time de experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. <br><br>
+Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um **time de experientes executivos** do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. <br><br>
 
-**O TIME** <br>
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, com experiência na comercialização e implantação de **projetos complexos de capacitação corporativa**, isto é, projetos de programas educacionais com: 
-- Grande abrangência territorial e diversidade de infraestrutura presencial;
-- Grande quantidade e dispersão dos colaboradores envolvidos;
-- Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
-- Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
-- Grande necessidade de engajamento e fidelização.    
-
-O expertise adquirido é fruto do relacionamento recorrente com grandes empresas e organizações, conforme atestam alguns dos casos:
-- PDGs customizados + Complementação para MBAs (*Petróleo Ipiranga*);
-- MBA customizados híbridos - Presencial + AVA + Teleconferência; (*Ambev*)
-- Projetos de LMS + conteúdo customizado + catálogo de cursos + trilhas por competências + engajamento (*Comitê Olímpico Brasileiro 2020*)
-- Universidades corporativas virtuais (*UCB, Nufarm, USPEG...*);  
-- Programa de fidelização de PDVs (*Cresça com Aché*);  
-- Assessment “agendado” em massa (BDQ) + programa híbrido (*Líderes Cariocas da Prefeitura do Rio de Janeiro*);
-- Escolas funcionais inovadoras - TalenTV (*Sambatech*);
-- Fábrica Ágil para contact centers (*Atento*)
-
-<br><br>
 
 **MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br> 
-Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo para execução da PBL pode representado em quatro etapas. 
+Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo de execução da PBL tem duas etapas principais:
+- Etapa de preparação; 
+- Etapa de discussão;
 
-A essência da proposta é escalar **cada etapa** do processo de execução da PBL de forma **diferente**. <br>
+E duas etapas auxiliares:
+- Produção de conteúdo (preliminar);
+- Feedback (final) 
+
+A essência inovadora da proposta está em escalar **cada etapa** do processo de execução da PBL de forma **diferente**. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
@@ -160,11 +147,34 @@ A essência da proposta é escalar **cada etapa** do processo de execução da P
 
 <br>
 
+**O TIME** <br>
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**.
+
+Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
+- Grande abrangência territorial e diversidade de infraestrutura presencial;
+- Grande quantidade e dispersão dos colaboradores envolvidos;
+- Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
+- Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
+- Grande necessidade de engajamento e fidelização.<br>    
+
+Conforme atestam alguns dos casos:
+- PDGs customizados + Complementação para MBAs (*Petróleo Ipiranga*);
+- MBA customizados híbridos - Presencial + AVA + Teleconferência; (*Ambev*)
+- Projetos de LMS + conteúdo customizado + catálogo de cursos + trilhas por competências + engajamento (*Comitê Olímpico Brasileiro 2020*)
+- Universidades corporativas virtuais (*UCB, Nufarm, USPEG...*);  
+- Programa de fidelização de PDVs (*Cresça com Aché*);  
+- Assessment “agendado” em massa (BDQ) + programa híbrido (*Líderes Cariocas da Prefeitura do Rio de Janeiro*);
+- Escolas funcionais inovadoras - TalenTV (*Sambatech*);
+- Fábrica Ágil para contact centers (*Atento*)<br><br>
+
+
 **O NEGÓCIO** <br>
 O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho. <br> 
 
 <p align="center">
   <img src="img/sum_quadro2.png">
+</p>
+<p align="center"><em>detalhamento do público-alvo da OpenPBL em função das necessidades.</em>
 </p>
 
 <br>
