@@ -169,12 +169,12 @@ Conforme atestam alguns dos casos:
 
 
 **O NEGÓCIO** <br>
-O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho. <br> 
+O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
 </p>
-<p align="center"><em>detalhamento do público-alvo da OpenPBL em função das necessidades.</em>
+<p align="center"><em>Detalhamento do público-alvo da OpenPBL em função das necessidades.</em>
 </p>
 
 <br>
@@ -187,20 +187,18 @@ O modelo de negócios proporciona quatro importantes **atributos diferenciais** 
 
 - Etapa presencial com várias opções de disponibilidade geográfica para adequar-se às **restrições de deslocamento** do alunos (diferencial de deslocamento e acesso); 
 
-- **Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);
+- **Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);<br>
    -- O preço-alvo da **oferta de menor preço** -> R$ 300,00.<br><br>
 
 **O PLANO DE NEGÓCIOS** <br>
 As simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola. 
 
-Além disto, e o mais importante, após o desenvolvimento de um **sistema educacional proprietário** para operacionalizar e automatizar o modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expanção das atividades da escola**. 
+Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expanção das atividades da escola**. Além disso, o modelo já prevê a operação *multilanguage* com títulos em **português**, **inglês** e **espanhol**.
 
-Para o delineamento detalhado, implantação e testes do **sistema educacional OpenPBL**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
-
-Além disso, operando com títulos em **português**, **inglês** e **espanhol**. <br><br>
+Para o delineamento, implantação e testes do **sistema educacional**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**. <br><br>
 
 **STARTUP DA EMPRESA** <br>
-O startup da escola, previsto para o primeiro ano de operação, tem agendado: 
+O startup da escola, previsto para o **primeiro ano** de operação, tem agendado: 
 - Testes com um “concierge MVP” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
 - Desenvolvimento dos sistemas de software (CAPEX); 
@@ -211,11 +209,11 @@ O startup da escola, previsto para o primeiro ano de operação, tem agendado:
 **FINANCIAMENTO DO PROJETO** <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
-Ao todo, já foram captados R$ 150.000 à título de capital semente para **validações iniciais** do modelo. 
+Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação R$ 652.000 em **quatro quotas** de R$ 163.000 para **desenvolver sistemas de software**, **produzir conteúdo** e **capital de giro** para o *startup* da empresa na cidade de São Paulo.
 
-A captação considera o valuation de R$ 5,4 MM;
+A captação considera o *valuation* de R$ 5,4 milhões;
 
 ... 
 
