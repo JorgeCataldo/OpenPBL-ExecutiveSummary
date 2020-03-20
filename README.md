@@ -218,7 +218,7 @@ Todas as etapas de expansão previstas no plano serão financiadas por **capital
 
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação R$ 652.000 em **quatro quotas** de R$ 163.000 para **desenvolver sistemas de software**, **produzir conteúdo** e **capital de giro** para o *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
 
 A captação considera o *valuation* de R$ 5,4 milhões;
 
