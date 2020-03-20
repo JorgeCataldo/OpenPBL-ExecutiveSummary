@@ -83,6 +83,18 @@ Grande parte deste desequilibrio ocorre porque as escolas que tradicionalmente d
 
 Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**.
 
+...
+<table style="width:100%">
+  <tr>
+    <th><img src="img/sum_sofia1.png"></th>
+    <th><img src="img/sum_quadro1.png"></th> 
+  </tr>
+</table>
+
+
+**PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
+
+...
 <table style="width:100%">
   <tr>
     <th><img src="img/sum_harvard1.png"></th>
@@ -90,17 +102,40 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
   </tr>
 </table>
 
-**PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
-Cada
-
 **MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br>
-Cada
+
+...
+<p align="center">
+  <img src="img/sum_quadro3.png">
+</p>
 
 **O NEGÓCIO** <br>
-Cada
+
+...
+<table style="width:100%">
+  <tr>
+    <th><img src="img/sum_logo_redondo1.png"></th>
+    <th>Baseado no modelo escalável proposto, foi criada a OpenPBL, uma escola profissionalizante para oferecer programas educacionais orientados por experiências PBL.</th> 
+  </tr>
+</table>
+
+<p align="center">
+  <img src="img/sum_quadro2.png">
+</p>
+
 
 **ESCOLA PROFISSIONALIZANTE OPEN-PBL** <br>
-Cada
+
+...
+Programas desenhados sob medida para **perfis funcionais** típicos do mercado de trabalho, p.ex., analista sênior de marketing e engenheiro de software júnior (diferencial de enquadramento).
+
+Programas **híbridos** com grande parte do tempo dedicado à **etapa online** assíncrona para adequar-se à **disponibilidade de tempo** dos alunos (diferencial de tempo gasto) ;
+
+Etapa presencial com várias opções de disponibilidade geográfica para adequar-se às **restrições de deslocamento** do alunos (diferencial de deslocamento e acesso); 
+
+**Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);
+- O preço-alvo da **oferta de menor preço** -> R$ 300,00.
+
 
 **O PLANO DE NEGÓCIOS** <br>
 O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.
@@ -111,17 +146,35 @@ Além disto, e o mais importante, após o desenvolvimento de um **sistema educac
 
 Para o delineamento detalhado, implantação e testes do **sistema educacional OpenPBL**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
 
-<p align="center">
-  <img src="img/sum_quadro3.png">
-</p>
+...
+Além disso, operando com títulos em **português**, **inglês** e **espanhol**. 
+
 
 **STARTUP DA EMPRESA** <br>
-Cada
+
+...
+O startup da escola, previsto para o primeiro ano de operação, tem agendado: 
+- Testes com um “concierge MVP” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
+- Abertura formal da empresa e pré-operação. 
+- Desenvolvimento dos sistemas de software (CAPEX); 
+- Estudos de mercado e escolha das “escolas funcionais” para oferta inicial na cidade São Paulo;
+- Produção do estoque inicial de títulos (CAPEX);
+- Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. 
 
 **FINANCIAMENTO DO PROJETO** <br>
-Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional. 
+Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de **quatro quotas** de R$ 163.000 para **desenvolver sistemas de software** e **iniciar a operação** da empresa na cidade de São Paulo.
+
+...
+Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
+
+Ao todo, já foram captados R$ 150.000 à título de capital semente para **validações iniciais** do modelo. 
+
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação R$ 652.000 em **quatro quotas** de R$ 163.000 para **desenvolver sistemas de software**, **produzir conteúdo** e **capital de giro** para o *startup* da empresa na cidade de São Paulo.
+
+A captação considera o valuation de R$ 5,4 MM;
+
 
 ... 
 
