@@ -152,7 +152,7 @@ O expertise adquirido é fruto do relacionamento recorrente com grandes empresas
 **MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br> 
 Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo para execução da PBL pode representado em quatro etapas. 
 
-A essência da proposta é escalar **cada etapa** do processo de execução da PBL de forma **diferente**. 
+A essência da proposta é escalar **cada etapa** do processo de execução da PBL de forma **diferente**. <br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
