@@ -82,7 +82,7 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
 <table style="width:100%">
   <tr>
     <th><img src="img/sum_quadro1.png"></th> 
-    <th><img src="img/sum_sofia1.png"></th>
+    <th><img src="img/sum_sofia1.png"><a href="https://youtu.be/WyKZC7nhQZw">Ver vídeo</a></th>
   </tr>
 </table>
 
