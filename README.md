@@ -83,6 +83,13 @@ Grande parte deste desequilibrio ocorre porque as escolas que tradicionalmente d
 
 Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**.
 
+<table style="width:100%">
+  <tr>
+    <th><img src="img/sum_harvard1.png"></th>
+    <th><img src="img/sum_minerva1.png"></th> 
+  </tr>
+</table>
+
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
 Cada
 
@@ -103,6 +110,10 @@ As simulações financeiras do modelo de negócios mostram que, com um **investi
 Além disto, e o mais importante, após o desenvolvimento de um **sistema educacional proprietário** para operacionalizar e automatizar o modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expanção das atividades da escola**. 
 
 Para o delineamento detalhado, implantação e testes do **sistema educacional OpenPBL**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
+
+<p align="center">
+  <img src="img/sum_quadro3.png">
+</p>
 
 **STARTUP DA EMPRESA** <br>
 Cada
