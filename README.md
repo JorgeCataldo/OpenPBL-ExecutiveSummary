@@ -188,7 +188,7 @@ O modelo de negócios proporciona quatro importantes **atributos diferenciais** 
 - Etapa presencial com várias opções de disponibilidade geográfica para adequar-se às **restrições de deslocamento** do alunos (diferencial de deslocamento e acesso); 
 
 - **Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);<br>
-   -- O preço-alvo da **oferta de menor preço** -> R$ 300,00.<br><br>
+  - O preço-alvo da **oferta de menor preço** -> R$ 300,00.<br><br>
 
 **O PLANO DE NEGÓCIOS** <br>
 As simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola. 
