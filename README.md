@@ -88,20 +88,21 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
 
 
 <br>
-No entanto, apesar da crescente demanda por parte das empresas e, por extensão, do aumento da demanda de **profissionais** e **entrantes** no mercado de trabalho por **programas educacionais** que desenvolvem esse tipo de habilidade, a oferta **não acompanha esse aumento**. 
 
-Este **desequilibrio** pontual do mercado educacional, em conjunto com a viabilidade econômica de novas tecnologias aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada.<br><br>
-
-**COMPETÊNCIAS COMPORTAMENTAIS** <br>
-**Competências comportamentais profissionais** são competências **individuais**, resultantes do **emprego contínuo** das competências técnicas em **condições reais** de incerteza, assimetria de informação, restrições de recursos e pressões diversas, segundo as restrições do portfolio de **habilidades comportamentais individuais** de cada profissional. 
-
-São exemplos de competências comportamentais:
+Algumas competências comportamentais **profissionais** relevantes: 
 - Estruturação de problemas mal definidos; 
 - Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
 - Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
 - Atuação sob pressão de prazo, desempenho e opiniões diversas; 
 - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - Visão orçamentária, atitude empreendedora e outras mais.
+
+<br>
+
+Fora das empresas, as competências comportamentais **profissionais** são desenvolvidas em **programas educacionais** que promovem o exercício **contínuo** de aplicação das competências **técnicas** em **situações reais**, conforme as restrições das **habilidades comportamentais individuais** de cada profissional. Apesar da crescente demanda por parte das empresas e, por extensão, por parte de **profissionais** e **entrantes** no mercado de trabalho, a oferta destes programas no mercado educacional **não é suficiente** para suprir esse aumento. 
+
+Este **desequilibrio** pontual do mercado educacional, em conjunto com o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada.<br><br>
+
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
 Grande parte do desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem as **competências comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. 
