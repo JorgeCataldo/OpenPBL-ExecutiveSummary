@@ -90,9 +90,11 @@ Dentre as competências comportamentais **profissionais** mais demandadas, temos
 <table style="width:100%">
   <tr>
     <th><img src="img/sum_quadro12.png"></th> 
-    <th><img src="img/sum_sofia1.png"><a href="https://youtu.be/WyKZC7nhQZw">Ver vídeo da entrevista</a></th>
+    <th><img src="img/sum_sofia1.png"></th>
   </tr>
 </table>
+<p align="center"><em>Veja o <a href="https://youtu.be/WyKZC7nhQZw">vídeo</a> da entrevista com Sofia Esteves sobre competências comportamentais.</em>
+</p>
 
 <br>
 
