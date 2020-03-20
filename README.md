@@ -96,7 +96,7 @@ Dentre as competências comportamentais **profissionais** mais demandadas, temos
 <p align="center"><em>Veja o <a href="https://youtu.be/WyKZC7nhQZw">vídeo</a> da entrevista com Sofia Esteves sobre competências comportamentais.</em>
 </p>
 
-<br>
+<br> 
 
 Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** são desenvolvidas em **programas educacionais** que promovem o exercício **contínuo** de aplicação das competências **técnicas** em **situações reais**, conforme as restrições das **habilidades comportamentais individuais** de cada profissional. 
 
@@ -143,6 +143,31 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 
 <p align="center">
   <img src="img/sum_quadro3.png">
+</p>
+
+<br>
+
+
+**Produção de conteúdo automatizada** <br>
+
+<p align="center">
+  <img src="img/sum_processo1.png">
+</p>
+
+<br>
+
+**Adaptive learning para acelerar a SDL** <br>
+
+<p align="center">
+  <img src="img/sum_processo2.png">
+</p>
+
+<br>
+
+**Sessão presencial atomizada e assistida por software** <br>
+
+<p align="center">
+  <img src="img/sum_processo3.png">
 </p>
 
 <br>
