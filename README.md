@@ -116,8 +116,7 @@ Grande parte do desequilibrio no mercado educacional ocorre porque as escolas qu
     <th><img src="img/sum_minerva1.png"></th> 
   </tr>
 </table>
-<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
-</p>
+<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em></p>
 
 <br>
 
@@ -147,17 +146,22 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 
 <br>
 
-<p align="center">
-    <in>Produção de conteúdo automatizada<in/><br><br>
-    <img src="img/sum_processo1.png"></p>
+<p align="center"><in>Produção de conteúdo automatizada</in></p>
+<p align="center"><img src="img/sum_processo1.png"></p>
+
+<br>
 
 <p align="center">
-  <in>Adaptive learning para acelerar a SDL<in/><br><br>
-  <img src="img/sum_processo2.png"></p>
+  <in>Adaptive learning para acelerar a SDL</in>
+  <img src="img/sum_processo2.png">
+</p>
+
+<br>
 
 <p align="center">
-  <in>Sessão presencial atomizada e assistida por software<in/><br><br> 
-  <img src="img/sum_processo3.png"></p> 
+  <in>Sessão presencial atomizada e assistida por software</in> 
+  <img src="img/sum_processo3.png">
+</p> 
 
 <br> 
 
