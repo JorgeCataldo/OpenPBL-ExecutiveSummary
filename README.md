@@ -12,7 +12,7 @@
 <br>
 
 ### OPEN-PBL EXECUTIVE SUMMARY 
-Executive summary of the 2020 fundraising Business Plan.<br>
+Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 **THE OPPORTUNITY AND THE PROPOSAL** <br>
 Companies are increasingly demanding professionals from **all hierarchical levels** to develop the **behavioral skills** that allow them, not only to achieve the **expected results** but to achieve them in the **most efficient** way possible.However, despite this growing market opportunity, the offer of educational programs that aim to develop this type of skill does not keep up with the increase in demand.
@@ -74,10 +74,10 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 ### OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br>
+Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. 
+Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. <br>
 
 <table style="width:100%">
   <tr>
@@ -87,11 +87,10 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
 </table>
 
 
-
-
+<br>
 No entanto, apesar da crescente demanda por parte das empresas e, por extensão, do aumento da demanda de **profissionais** e **entrantes** no mercado de trabalho por **programas educacionais** que desenvolvem esse tipo de habilidade, a oferta **não acompanha esse aumento**. 
 
-Este **desequilibrio** pontual do mercado educacional, em conjunto com a viabilidade econômica de novas tecnologias aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada.
+Este **desequilibrio** pontual do mercado educacional, em conjunto com a viabilidade econômica de novas tecnologias aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
 **COMPETÊNCIAS COMPORTAMENTAIS** <br>
 **Competências comportamentais profissionais** são competências **individuais**, resultantes do **emprego contínuo** das competências técnicas em **condições reais** de incerteza, assimetria de informação, restrições de recursos e pressões diversas, segundo as restrições do portfolio de **habilidades comportamentais individuais** de cada profissional. 
@@ -120,7 +119,7 @@ Mesmo com a popularização das **Edtechs**, ainda não é possível encontrar *
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um time de experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
+Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um time de experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. <br><br>
 
 **O TIME** <br>
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, com experiência na comercialização e implantação de **projetos de capacitação corporativa**, cuja complexidade requeiram: 
@@ -140,6 +139,8 @@ O expertise na execução de **projetos complexos** permite o relacionamento com
 - Escolas funcionais inovadoras  - TalenTV (parceria com a Sambatech);
 - Fábrica Ágil para contact centers (parceria com a DP Content)
 
+<br><br>
+
 **MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br> 
 Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo para execução da PBL pode representado em quatro etapas. 
 
@@ -148,6 +149,8 @@ A essência da proposta é escalar **cada etapa** do processo de execução da P
 <p align="center">
   <img src="img/sum_quadro3.png">
 </p>
+
+<br><br>
 
 **O NEGÓCIO** <br>
 O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho. <br> 
@@ -163,6 +166,7 @@ O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **e
   <img src="img/sum_quadro2.png">
 </p>
 
+<br><br>
 
 **DIFERENCIAIS DE MERCADO** <br>
 O modelo de negócios proporciona quatro importantes **atributos diferenciais** aos produtos da escola: 
@@ -174,7 +178,8 @@ O modelo de negócios proporciona quatro importantes **atributos diferenciais** 
 
 - **Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);
    -- O preço-alvo da **oferta de menor preço** -> R$ 300,00.
-<br> 
+
+<br><br>
 
 **O PLANO DE NEGÓCIOS** <br>
 As simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola. 
@@ -184,7 +189,8 @@ Além disto, e o mais importante, após o desenvolvimento de um **sistema educac
 Para o delineamento detalhado, implantação e testes do **sistema educacional OpenPBL**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
 
 Além disso, operando com títulos em **português**, **inglês** e **espanhol**. 
-<br>
+
+<br><br>
 
 **STARTUP DA EMPRESA** <br>
 O startup da escola, previsto para o primeiro ano de operação, tem agendado: 
@@ -194,6 +200,8 @@ O startup da escola, previsto para o primeiro ano de operação, tem agendado:
 - Estudos de mercado e escolha das “escolas funcionais” para oferta inicial na cidade São Paulo;
 - Produção do estoque inicial de títulos (CAPEX);
 - Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. 
+
+<br><br>
 
 **FINANCIAMENTO DO PROJETO** <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
