@@ -169,7 +169,7 @@ Conforme atestam alguns dos casos:
 
 
 **O NEGÓCIO** <br>
-O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho. <br><br>
+O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
