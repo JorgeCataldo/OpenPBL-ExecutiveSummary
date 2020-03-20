@@ -83,7 +83,9 @@ Grande parte deste desequilibrio ocorre porque as escolas que tradicionalmente d
 
 Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**.
 
-...
+... <br>
+Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. 
+
 <table style="width:100%">
   <tr>
     <th><img src="img/sum_sofia1.png"></th>
@@ -91,10 +93,17 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
   </tr>
 </table>
 
+No entanto, apesar dessa crescente oportunidade de mercado, a oferta de programas educacionais que desenvolvem esse tipo de habilidade não acompanha o aumento da demanda. 
+
+Este **desequilibrio do mercado educacional** configura a **janela de oportunidades** a ser explorada neste plano de negócios.
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
 
-...
+... <br>
+Grande parte do desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem **habilidades comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. 
+
+É o caso das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais e, portanto, candidata natural para reduzir este desequilibrio do mercado. <br>
+
 <table style="width:100%">
   <tr>
     <th><img src="img/sum_harvard1.png"></th>
@@ -102,20 +111,50 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
   </tr>
 </table>
 
-**MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br>
+Mesmo com a popularização das **Edtechs**, ainda não é possível encontrar **sistemas educacionais**  baseados na PBL que possam expandir as suas atividades. Os dois principais obstáculos à escalabilidade dos modelos PBL podem ser resumidos em:
+- O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
+- o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-...
+Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um time de experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
+
+**O TIME** <br>
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, com experiência na comercialização e implantação de **projetos de capacitação corporativa**, cuja complexidade requeiram: 
+- Grande abrangência territorial e diversidade de infraestrutura presencial;
+- Grande quantidade e dispersão dos colaboradores envolvidos;
+- Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
+- Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
+- Grande necessidade de engajamento e fidelização.    
+
+O expertise na execução de **projetos complexos** permite o relacionamento comercial recorrente com grandes empresas e organizações, como, por exemplo:
+- PDGs customizados + Complementação para MBAs (experiência in company);
+- MBA customizados híbridos - Presencial + AVA + Teleconferência; (Ambev; …)
+- Projetos de LMS + conteúdo customizado + catálogo de cursos + trilhas por competências + engajamento (COB 2020; Transforma; ...)
+- Universidades corporativas virtuais (UCB, Nufarm, ...);  
+- Programa de fidelização de PDVs (Cresça com Aché);  
+- Assessment “agendado” em massa (BDQ) + programa híbrido (Líderes Cariocas);
+- Escolas funcionais inovadoras  - TalenTV (parceria com a Sambatech);
+- Fábrica Ágil para contact centers (parceria com a DP Content)
+
+**MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br> 
+
+...<br>
+Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo para execução da PBL pode representado em quatro etapas. 
+
+A essência da proposta é escalar **cada etapa** do processo de execução da PBL de forma **diferente**. 
+
 <p align="center">
   <img src="img/sum_quadro3.png">
 </p>
 
 **O NEGÓCIO** <br>
 
-...
+...<br>
+O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho. <br> 
+
 <table style="width:100%">
   <tr>
     <th><img src="img/sum_logo_redondo1.png"></th>
-    <th>Baseado no modelo escalável proposto, foi criada a OpenPBL, uma escola profissionalizante para oferecer programas educacionais orientados por experiências PBL.</th> 
+    <th></th> 
   </tr>
 </table>
 
@@ -124,18 +163,19 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
 </p>
 
 
-**ESCOLA PROFISSIONALIZANTE OPEN-PBL** <br>
+**DIFERENCIAIS DE MERCADO** <br>
 
-...
-Programas desenhados sob medida para **perfis funcionais** típicos do mercado de trabalho, p.ex., analista sênior de marketing e engenheiro de software júnior (diferencial de enquadramento).
+...<br>
+O modelo de negócios proporciona quatro importantes **atributos diferenciais** aos produtos da escola: 
+- Programas desenhados sob medida para **perfis funcionais** típicos do mercado de trabalho, p.ex., analista sênior de marketing e engenheiro de software júnior (diferencial de enquadramento).
 
-Programas **híbridos** com grande parte do tempo dedicado à **etapa online** assíncrona para adequar-se à **disponibilidade de tempo** dos alunos (diferencial de tempo gasto) ;
+- Programas **híbridos** com grande parte do tempo dedicado à **etapa online** assíncrona para adequar-se à **disponibilidade de tempo** dos alunos (diferencial de tempo gasto) ;
 
-Etapa presencial com várias opções de disponibilidade geográfica para adequar-se às **restrições de deslocamento** do alunos (diferencial de deslocamento e acesso); 
+- Etapa presencial com várias opções de disponibilidade geográfica para adequar-se às **restrições de deslocamento** do alunos (diferencial de deslocamento e acesso); 
 
-**Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);
-- O preço-alvo da **oferta de menor preço** -> R$ 300,00.
-
+- **Custo baixo** das experiências completas de aprendizagem PBL para caber em **orçamentos de vários tamanhos** (diferencial de custo);
+   -- O preço-alvo da **oferta de menor preço** -> R$ 300,00.
+<br> 
 
 **O PLANO DE NEGÓCIOS** <br>
 O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.
@@ -146,13 +186,19 @@ Além disto, e o mais importante, após o desenvolvimento de um **sistema educac
 
 Para o delineamento detalhado, implantação e testes do **sistema educacional OpenPBL**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
 
-...
+... <br>
+As simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola. 
+
+Além disto, e o mais importante, após o desenvolvimento de um **sistema educacional proprietário** para operacionalizar e automatizar o modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expanção das atividades da escola**. 
+
+Para o delineamento detalhado, implantação e testes do **sistema educacional OpenPBL**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
+
 Além disso, operando com títulos em **português**, **inglês** e **espanhol**. 
 
 
 **STARTUP DA EMPRESA** <br>
 
-...
+... <br>
 O startup da escola, previsto para o primeiro ano de operação, tem agendado: 
 - Testes com um “concierge MVP” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
@@ -166,7 +212,7 @@ Todas as etapas de expansão previstas no plano serão financiadas por **capital
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de **quatro quotas** de R$ 163.000 para **desenvolver sistemas de software** e **iniciar a operação** da empresa na cidade de São Paulo.
 
-...
+... <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
 Ao todo, já foram captados R$ 150.000 à título de capital semente para **validações iniciais** do modelo. 
