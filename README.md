@@ -146,20 +146,17 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 
 <br>
 
-<p align="center"><in>Produção de conteúdo automatizada</in></p>
 <p align="center"><img src="img/sum_processo1.png"></p>
 
 <br>
 
 <p align="center">
-  <in>Adaptive learning para acelerar a SDL</in>
   <img src="img/sum_processo2.png">
 </p>
 
 <br>
 
 <p align="center">
-  <in>Sessão presencial atomizada e assistida por software</in> 
   <img src="img/sum_processo3.png">
 </p> 
 
