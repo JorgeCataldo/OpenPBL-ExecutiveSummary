@@ -148,8 +148,7 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 <br>
 
 
-<p align="center">
-  **Produção de conteúdo automatizada** <br>
+<p align="center"><in>Produção de conteúdo automatizada<in/><br>
     <img src="img/sum_processo1.png">
 </p>
 
