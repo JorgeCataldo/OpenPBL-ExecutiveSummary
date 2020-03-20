@@ -147,27 +147,19 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 
 <br>
 
-
 <p align="center">
     <in>Produção de conteúdo automatizada<in/><br><br>
-    <img src="img/sum_processo1.png">
-</p>
-
-<br>
+    <img src="img/sum_processo1.png"></p>
 
 <p align="center">
   <in>Adaptive learning para acelerar a SDL<in/><br><br>
-  <img src="img/sum_processo2.png">
-</p>
-
-<br>
+  <img src="img/sum_processo2.png"></p>
 
 <p align="center">
-  <in>Sessão presencial atomizada e assistida por software<in/><br><br>
-  <img src="img/sum_processo3.png">
-</p>
+  <in>Sessão presencial atomizada e assistida por software<in/><br><br> 
+  <img src="img/sum_processo3.png"></p> 
 
-<br>
+<br> 
 
 **O TIME** <br>
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**.
