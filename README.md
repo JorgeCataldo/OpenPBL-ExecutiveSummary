@@ -77,7 +77,15 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. <br>
+Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível.
+
+Dentre as competências comportamentais **profissionais** mais demandadas, temos: 
+- Estruturação de problemas mal definidos; 
+- Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
+- Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
+- Atuação sob pressão de prazo, desempenho e opiniões diversas; 
+- Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
+- Visão orçamentária, atitude empreendedora.<br>
 
 <table style="width:100%">
   <tr>
@@ -86,16 +94,14 @@ Cada vez mais, as empresas vêm demandando de profissionais de **todos os nívei
   </tr>
 </table>
 
+<table style="width:100%">
+  <tr>
+    <th><img src="img/sum_quadro1.png"></th> 
+    <th><a href="https://youtu.be/WyKZC7nhQZw"><img src="img/sum_sofia1.png"></a></th>
+  </tr>
+</table>
 
 <br>
-
-Dentre as competências comportamentais **profissionais**, algumas das mais demandadas são: 
-- Estruturação de problemas mal definidos; 
-- Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
-- Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
-- Atuação sob pressão de prazo, desempenho e opiniões diversas; 
-- Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária, atitude empreendedora.
 
 Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** são desenvolvidas em **programas educacionais** que promovem o exercício **contínuo** de aplicação das competências **técnicas** em **situações reais**, conforme as restrições das **habilidades comportamentais individuais** de cada profissional. 
 
@@ -196,9 +202,7 @@ O startup da escola, previsto para o primeiro ano de operação, tem agendado:
 - Desenvolvimento dos sistemas de software (CAPEX); 
 - Estudos de mercado e escolha das “escolas funcionais” para oferta inicial na cidade São Paulo;
 - Produção do estoque inicial de títulos (CAPEX);
-- Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. 
-
-<br>
+- Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. <br><br>
 
 **FINANCIAMENTO DO PROJETO** <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
