@@ -134,21 +134,22 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
 
 <p align="center">
   <img src="img/sum_quadro3.png">
-<p align="center"><em>Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.</em>
+<p align="center"><em>.</em>
 </p>
 
 <br>
+Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.<br><br>
 
 <p align="center"><img src="img/sum_processo1.png">
-<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+<em>Produção de conteúdo automatizada.</em>
 </p>
 
 <p align="center"><img src="img/sum_processo2.png">
-<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+<em>Adaptive learning para acelerar a fase de "self-directed learning.</em>
 </p>
 
 <p align="center"><img src="img/sum_processo3.png">
-<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+<em>Sessão presencial atomizada e assistida por software.</em>
 </p> 
 
 <br> 
