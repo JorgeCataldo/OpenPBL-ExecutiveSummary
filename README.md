@@ -77,15 +77,9 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Cada vez mais, as empresas vêm demandando de profissionais de **todos os níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível.
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial projetou as competências que nortearão o mundo do trabalho a partir de 2020. Mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais dinâmico e automatizado. Na prática, esse conjunto de competências contribui para que os profissionais não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível.  
 
-Dentre as competências comportamentais **profissionais** mais demandadas, temos: 
-- Estruturação de problemas mal definidos; 
-- Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
-- Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
-- Atuação sob pressão de prazo, desempenho e opiniões diversas; 
-- Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária, atitude empreendedora.<br><br>
+De fato, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** desenvolvam competências tais como resolução de problemas complexos; pensamento crítico; coordenação ao lado de outras pessoas; inteligência emocional; julgamento e tomada de decisão; orientação a serviço; negociação e flexibilidade cognitiva.<br><br>
 
 <table style="width:100%">
   <tr>
@@ -98,17 +92,9 @@ Dentre as competências comportamentais **profissionais** mais demandadas, temos
 
 <br> 
 
-Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** são desenvolvidas em **programas educacionais** que promovem o exercício **contínuo** de aplicação das competências **técnicas** em **situações reais**, conforme as restrições das **habilidades comportamentais individuais** de cada profissional. 
+Em geral, esse é um conjunto de competências encontrado em profissionais experiêntes em suas funções e são fruto do exercício **contínuo** de aplicação das competências **técnicas** em **situações reais**, conforme as **habilidades comportamentais individuais** de cada um. 
 
-Entretanto, apesar da crescente procura por **profissionais** e **entrantes** no mercado de trabalho com competências comportamentais já desenvolvidas, a oferta de programas educacionais para esse desenvolvimento **não é suficiente** para suprir o aumento da demanda. 
-
-Este **desequilibrio** pontual do mercado educacional, em conjunto com o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada e é o tema principal deste **Plano de Negócios**.<br><br>
-
-
-**PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
-Grande parte do desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem as **competências comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. 
-
-É o caso das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais e, portanto, candidata natural para reduzir este desequilibrio do mercado. <br><br>
+Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** podem ser desenvolvidas em **programas educacionais** específicos, que procuram simular estas situações reais e acelerar o seu desenvolvimento. É o caso das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -120,9 +106,15 @@ Grande parte do desequilibrio no mercado educacional ocorre porque as escolas qu
 
 <br>
 
-Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizar** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** baseados na PBL que consigam expandir as suas atividades sem custos relevantes.
+Apesar da crescente procura por **profissionais** e **entrantes** no mercado de trabalho com competências comportamentais já desenvolvidas, a oferta de programas educacionais para esse desenvolvimento **não é suficiente** para suprir o aumento da demanda. 
 
-Os dois principais **obstáculos** à escalabilidade dos modelos baseados em PBL podem ser resumidos em:
+Grande parte deste desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem as **competências comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizar** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** que consigam expandir as suas atividades sem custos relevantes.
+
+O **desequilibrio** pontual do mercado educacional, em conjunto com o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada e é o tema principal deste **Plano de Negócios**.<br><br>
+
+**PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
+
+Candidata natural para reduzir este desequilibrio do mercado educacional, a PBL encontra alguns obstáculos para uma execução em larga escala. Os dois principais **obstáculos** à escalabilidade dos modelos baseados em PBL podem ser resumidos em:
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
@@ -155,25 +147,12 @@ A essência inovadora da proposta está em escalar **cada etapa** do processo de
 <br> 
 
 **O TIME** <br>
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**.
-
-Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
 - Grande abrangência territorial e diversidade de infraestrutura presencial;
 - Grande quantidade e dispersão dos colaboradores envolvidos;
 - Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
 - Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
-- Grande necessidade de engajamento e fidelização.<br>    
-
-Conforme atestam alguns dos casos:
-- PDGs customizados + Complementação para MBAs (*Petróleo Ipiranga*);
-- MBA customizados híbridos - Presencial + AVA + Teleconferência; (*Ambev*)
-- Projetos de LMS + conteúdo customizado + catálogo de cursos + trilhas por competências + engajamento (*Comitê Olímpico Brasileiro 2020*)
-- Universidades corporativas virtuais (*UCB, Nufarm, USPEG...*);  
-- Programa de fidelização de PDVs (*Cresça com Aché*);  
-- Assessment “agendado” em massa (BDQ) + programa híbrido (*Líderes Cariocas da Prefeitura do Rio de Janeiro*);
-- Escolas funcionais inovadoras - TalenTV (*Sambatech*);
-- Fábrica Ágil para contact centers (*Atento*)<br><br>
-
+- Grande necessidade de engajamento e fidelização.<br><br>
 
 **O NEGÓCIO** <br>
 O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
@@ -185,6 +164,14 @@ O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **e
 </p>
 
 <br>
+
+Dentre as competências comportamentais **profissionais** mais demandadas, a escola se concentrará em: 
+- Estruturação de problemas mal definidos; 
+- Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
+- Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
+- Atuação sob pressão de prazo, desempenho e opiniões diversas; 
+- Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
+- Visão orçamentária, atitude empreendedora.<br><br>
 
 **DIFERENCIAIS DE MERCADO** <br>
 O modelo de negócios proporciona quatro importantes **atributos diferenciais** aos produtos da escola: 
@@ -228,7 +215,16 @@ A captação considera o *valuation* de R$ 5,4 milhões;
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese">storytelling</a> do seu produto-tipo.* 
 
-
+...
+Conforme atestam alguns dos casos:
+- PDGs customizados + Complementação para MBAs (*Petróleo Ipiranga*);
+- MBA customizados híbridos - Presencial + AVA + Teleconferência; (*Ambev*)
+- Projetos de LMS + conteúdo customizado + catálogo de cursos + trilhas por competências + engajamento (*Comitê Olímpico Brasileiro 2020*)
+- Universidades corporativas virtuais (*UCB, Nufarm, USPEG...*);  
+- Programa de fidelização de PDVs (*Cresça com Aché*);  
+- Assessment “agendado” em massa (BDQ) + programa híbrido (*Líderes Cariocas da Prefeitura do Rio de Janeiro*);
+- Escolas funcionais inovadoras - TalenTV (*Sambatech*);
+- Fábrica Ágil para contact centers (*Atento*)
 
 <br>
 <p align="center">    
