@@ -129,18 +129,14 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade ger
 <p align="center">
   <img src="img/sum_quadro3.png">
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
-</p>
-
-<br><br><br>
+</p><br><br>
 
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
 <br><br>
 <img src="img/sum_processo1.png">
 <em>Sistema especialista para extração de conhecimento dos profissionais experientes.</em>
-</p>
-
-<br><br><br>
+</p><br><br>
 
 <p align="center">
 <b>APRENDIZAGEM ADAPTATIVA</b>
@@ -148,18 +144,14 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade ger
 <img src="img/sum_processo2.png">
 <br><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning".</em>
-</p>
-
-<br><br><br>
+</p><br><br>
 
 <p align="center">
 <b>ATOMIZAÇÃO DA DISCUSSÃO</b>
 <br><br>
 <img src="img/sum_processo3.png">
 <em>Sessão presencial atomizada e assistida por software.</em>
-</p> 
-
-<br><br>
+</p><br><br>
 
 **O NEGÓCIO** <br>
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. O modelo proposto para escalar a PBL foi utilizado pelos idealizadores como base para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
@@ -175,7 +167,7 @@ Os empreendedores que conceberam e desenvolveram o plano de negócios são profi
 **Produtos** <br>
 **ExperiênciaPBL** é o curso híbrido (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa** baseada na discussão de **um problema real** e **típico** da sua carreira.
 
-Na **etapa de Preparação** o aluno recebe: (1) conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo. Na **etapa de discussão** o aluno recebe: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho;<br><br>
+Na **etapa de Preparação** o aluno recebe: (1) conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo. Na **etapa de discussão** o aluno recebe: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho.<br><br>
 
 **Benefícios ao público alvo**<br>
 A **participação continuada** do profissional nas **ExperiênciasPBL** promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Esse ganho de empregabilidade é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
@@ -189,7 +181,7 @@ A **participação continuada** do profissional nas **ExperiênciasPBL** promove
 **Ofertas** <br>
 Os produtos são adquiridos via oferta **avulsa** da ExperiênciaPBL pelo preço alvo médio de R$ 320,00 ou de **trilhas** de ExperiênciasPBL, “curadas” para promover a **capacitação funcional** de profissionais (**Trilhas de Carreira**);
 
-*As trilhas de carreira para **setores específicos** também podem ser ofertadas, embora devam ser decididas de acordo com a viabilidade logística de cada região.* <br>
+*As trilhas de carreira para **setores específicos** também podem ser ofertadas, embora devam ser decididas de acordo com a viabilidade logística de cada região.* <br><br>
 
 **Diferenciais** <br>
 - **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
@@ -208,8 +200,15 @@ A Política de **canais B2B** é baseada em parcerias com associações profissi
 <br>
 
 **O PLANO DE NEGÓCIOS** <br>
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola. 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
 
+<p align="center">
+  <img src="img/dre.png">
+</p>
+<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balaço patrimonial.</em>
+</p>
+
+<br>
 As simulações das vendas consideraram as seguintes premissas:
 
 **Premissas de captação no ano 2**
@@ -250,14 +249,6 @@ As simulações do DRE consideraram as seguintes premissas:
 - Margem-alvo de contribuição aos custos indiretos - 55%
 - Taxa de no show esperada - 10%
 - Preço sugerido para a oferta avulsa da SessãoPBL - R$ 323 por aluno.<br><br>
-
-<p align="center">
-  <img src="img/dre.png">
-</p>
-<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balaço patrimonial.</em>
-</p>
-
-<br><br>
 
 **EXPANSÃO** <br>
 Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. 
