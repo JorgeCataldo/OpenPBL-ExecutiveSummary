@@ -113,24 +113,15 @@ Grande parte deste desequilibrio no mercado educacional ocorre porque as escolas
 O **desequilibrio** pontual do mercado educacional, em conjunto com o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada e é o tema principal deste **Plano de Negócios**.<br><br>
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
+Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo de execução da PBL tem duas etapas principais (preparação e discussão) e duas etapas auxiliares (produção de conteúdo e feedback). 
 
 Candidata natural para reduzir este desequilibrio do mercado educacional, a PBL encontra alguns obstáculos para uma execução em larga escala. Os dois principais **obstáculos** à escalabilidade dos modelos baseados em PBL podem ser resumidos em:
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um **time de experientes executivos** do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. <br><br>
+Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um **time de experientes executivos** do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. <br>
 
-
-**MODELO DE NEGÓCIOS PARA ESCALAR A PBL** <br> 
-Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo de execução da PBL tem duas etapas principais:
-- Etapa de preparação; 
-- Etapa de discussão;
-
-E duas etapas auxiliares:
-- Produção de conteúdo (preliminar);
-- Feedback (final) 
-
-A essência inovadora da proposta está em escalar **cada etapa** do processo de execução da PBL de forma **diferente**. <br><br>
+Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na propost de escalar **cada etapa** do processo de execução da PBL de forma **diferente**. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
@@ -214,6 +205,7 @@ As simulações das vendas consideraram as seguintes premissas:
 <p align="center"><em>Detalhamento do desempenho comercial de acordo com as premissas de captação e crescimento.</em>
 </p>
 
+<br><br>
 As simulações do DRE consideraram as seguintes premissas:
 
 **Premissas de custos e preços no ano 2**
