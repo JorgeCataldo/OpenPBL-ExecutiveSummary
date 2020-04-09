@@ -77,9 +77,9 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial projetou as competências que nortearão o mundo do trabalho a partir de 2020. Mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **dinâmico** e **automatizado**. No dia-a-dia da atividade profissional, esse conjunto de competências contribui para que os profissionais não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível.  
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as competências que, segundo gestores de RH de todo o mundo, norteariam o mundo do trabalho dali para frente. Segundo o relatório, mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
 
-De fato, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** desenvolvam competências tais como resolução de problemas complexos; pensamento crítico; coordenação ao lado de outras pessoas; inteligência emocional; julgamento e tomada de decisão; orientação a serviço; negociação e flexibilidade cognitiva.<br><br>
+No dia-a-dia da atividade profissional, esse conjunto de competências representa o arsenal necessário para que os profissionais não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -92,9 +92,19 @@ De fato, mais e mais empresas vêm demandando que profissionais de **todos os n�
 
 <br> 
 
-Em geral, estas competências comportamentais são observadas na atuação de profissionais **experientes** em suas funções e foram desenvolvidas pelo exercício **contínuo** de aplicação de competências **técnicas** em **situações reais**, de acordo com as **habilidades comportamentais individuais** de cada um. 
+De fato, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** desenvolvam competências tais como:
+- resolução de problemas complexos; 
+- pensamento crítico; 
+- coordenação ao lado de outras pessoas; 
+- inteligência emocional; 
+- julgamento e tomada de decisão; 
+- orientação a serviço; 
+- negociação e 
+- flexibilidade cognitiva. 
 
-Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** podem ser desenvolvidas em **programas educacionais** específicos, que procuram simular estas situações reais e acelerar o seu desenvolvimento. É o caso das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. <br><br>
+Competências desta natureza são observadas com frequencia na atuação de profissionais **experientes** em suas funções. Elas foram desenvolvidas pelo exercício **contínuo** de utilização de suas competências **técnicas** nas **situações reais** do dia-a-dia ao longo da carreira. E mais, elas variam de intensidade de profissional para forfissional porque foram desenvolvidas de acordo com as **habilidades comportamentais individuais** de cada um.
+
+Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** podem ser desenvolvidas em **programas educacionais** específicos, que buscam simular estas situações reais em ambientes controlados, afim de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -106,11 +116,11 @@ Além da **experiência** ao longo da carreira, as competências comportamentais
 
 <br>
 
-Apesar da crescente procura por **profissionais** e **entrantes** no mercado de trabalho com competências comportamentais já desenvolvidas, a oferta de programas educacionais para esse desenvolvimento **não é suficiente** para suprir o aumento da demanda. 
+Apesar da crescente busca das empresas por **profissionais** e **entrantes no mercado de trabalho** com as competências comportamentais elencadas no relatório do Forum econômico Mundial, a oferta de programas educacionais específicos para esse desenvolvimento **não é suficiente** para suprir o aumento da demanda, o que provoca um desequilibrio no mercado educacional.
 
-Grande parte deste desequilibrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem as **competências comportamentais** de seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus produtos. Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizar** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** que consigam expandir as suas atividades sem custos relevantes.
+Grande parte deste desequilíbrio ocorre porque as escolas que tradicionalmente desenvolvem **competências comportamentais** em seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizar** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** que consigam expandir as suas atividades sem custos relevantes.
 
-O **desequilibrio** pontual do mercado educacional, em conjunto com o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada e é o tema principal deste **Plano de Negócios**.<br><br>
+Os idealizadores do projeto, entendem que o **desequilibrio** pontual do mercado e o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram, em conjunto, uma excelente **janela de oportunidades** a ser explorada e é o tema principal deste **Plano de Negócios**.<br><br>
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
 Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo de execução da PBL tem duas etapas principais (preparação e discussão) e duas etapas auxiliares (produção de conteúdo e feedback). 
