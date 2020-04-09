@@ -124,9 +124,7 @@ A PBL é candidata natural para desenvolver competências comportamentais. Pela 
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional,  os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo proposto está em sua propriedade de escalar **cada etapa** do processo de execução da PBL de forma **diferente**:
-
-<br><br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional,  os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo proposto está em sua propriedade de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
