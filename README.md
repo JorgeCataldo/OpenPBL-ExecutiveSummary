@@ -156,7 +156,7 @@ Diferentemente do paradigma de execução 100% digital, a essência inovadora do
 <b>APRENDIZAGEM ADAPTATIVA</b>
 <br><br>
 <img src="img/sum_processo2.png">
-<br>
+<br><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning".</em>
 </p>
 
