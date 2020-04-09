@@ -149,19 +149,20 @@ Diferentemente do paradigma de execução 100% digital, a essência inovadora do
 <em>Sistema especialista para extração de conhecimento dos profissionais experientes.</em>
 </p>
 
-<br><br>
+<br><br><br>
 
 <p align="center">
 <b>APRENDIZAGEM ADAPTATIVA</b>
-<br>
+<br><br>
 <img src="img/sum_processo2.png">
 <em>Adaptive learning para acelerar a fase de "self-directed learning".</em>
 </p>
 
-<br><br>
+<br><br><br>
 
 <p align="center">
-<b>ATOMIZAÇÃO DA DISCUSSÃO</b><br>
+<b>ATOMIZAÇÃO DA DISCUSSÃO</b>
+<br><br>
 <img src="img/sum_processo3.png">
 <b>Sessão presencial atomizada e assistida por software.</b>
 </p> 
