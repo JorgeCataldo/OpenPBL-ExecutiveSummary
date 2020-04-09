@@ -139,8 +139,9 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
 
 <br><br>
 
-Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**, conforme a sequencia a seguir.<br><br>
+Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**, conforme a sequencia a seguir.
 
+<br><br><br>
 
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
@@ -155,6 +156,7 @@ Diferentemente do paradigma de execução 100% digital, a essência inovadora do
 <b>APRENDIZAGEM ADAPTATIVA</b>
 <br><br>
 <img src="img/sum_processo2.png">
+<br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning".</em>
 </p>
 
@@ -164,7 +166,7 @@ Diferentemente do paradigma de execução 100% digital, a essência inovadora do
 <b>ATOMIZAÇÃO DA DISCUSSÃO</b>
 <br><br>
 <img src="img/sum_processo3.png">
-<b>Sessão presencial atomizada e assistida por software.</b>
+<em>Sessão presencial atomizada e assistida por software.</em>
 </p> 
 
 <br><br>
