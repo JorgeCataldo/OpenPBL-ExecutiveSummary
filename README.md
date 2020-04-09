@@ -112,7 +112,8 @@ Além da **experiência** ao longo da carreira, as competências comportamentais
     <th><img src="img/sum_minerva1.png"></th> 
   </tr>
 </table>
-<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em></p>
+<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+</p>
 
 <br>
 
@@ -125,25 +126,30 @@ Os idealizadores do projeto, entendem que o **desequilibrio** pontual do mercado
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
 Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. O processo de execução da PBL tem duas etapas principais (preparação e discussão) e duas etapas auxiliares (produção de conteúdo e feedback). 
 
-Candidata natural para reduzir este desequilibrio do mercado educacional, a PBL encontra alguns obstáculos para uma execução em larga escala. Os dois principais **obstáculos** à escalabilidade dos modelos baseados em PBL podem ser resumidos em:
+Candidata natural para reduzir este desequilibrio do mercado educacional, a PBL encontra os seguintes **obstáculos** para uma execução em larga escala:
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um **time de experientes executivos** do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. <br>
-
-Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na propost de escalar **cada etapa** do processo de execução da PBL de forma **diferente**. <br><br>
+Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um **time de experientes executivos** do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
+<p align="center"><em>Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.</em>
 </p>
 
 <br>
 
-<p align="center"><img src="img/sum_processo1.png"></p>
+<p align="center"><img src="img/sum_processo1.png">
+<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+</p>
 
-<p align="center"><img src="img/sum_processo2.png"></p>
+<p align="center"><img src="img/sum_processo2.png">
+<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+</p>
 
-<p align="center"><img src="img/sum_processo3.png"></p> 
+<p align="center"><img src="img/sum_processo3.png">
+<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+</p> 
 
 <br> 
 
