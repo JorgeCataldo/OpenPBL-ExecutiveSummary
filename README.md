@@ -77,7 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial projetou as competências que nortearão o mundo do trabalho a partir de 2020. Mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais dinâmico e automatizado. Na prática, esse conjunto de competências contribui para que os profissionais não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível.  
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial projetou as competências que nortearão o mundo do trabalho a partir de 2020. Mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **dinâmico** e **automatizado**. No dia-a-dia da atividade profissional, esse conjunto de competências contribui para que os profissionais não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível.  
 
 De fato, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** desenvolvam competências tais como resolução de problemas complexos; pensamento crítico; coordenação ao lado de outras pessoas; inteligência emocional; julgamento e tomada de decisão; orientação a serviço; negociação e flexibilidade cognitiva.<br><br>
 
@@ -92,7 +92,7 @@ De fato, mais e mais empresas vêm demandando que profissionais de **todos os n�
 
 <br> 
 
-Em geral, esse é um conjunto de competências encontrado em profissionais experiêntes em suas funções e são fruto do exercício **contínuo** de aplicação das competências **técnicas** em **situações reais**, conforme as **habilidades comportamentais individuais** de cada um. 
+Em geral, estas competências comportamentais são observadas na atuação de profissionais **experientes** em suas funções e foram desenvolvidas pelo exercício **contínuo** de aplicação de competências **técnicas** em **situações reais**, de acordo com as **habilidades comportamentais individuais** de cada um. 
 
 Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** podem ser desenvolvidas em **programas educacionais** específicos, que procuram simular estas situações reais e acelerar o seu desenvolvimento. É o caso das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. <br><br>
 
