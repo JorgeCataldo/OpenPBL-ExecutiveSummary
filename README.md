@@ -110,14 +110,14 @@ Além da **experiência profissional**, as competências comportamentais podem s
 
 <br>
 
-**Desequilíbrio**
+**Desequilíbrio**<br>
 Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho com as competências comportamentais elencadas no relatório do Forum econômico Mundial, a oferta de programas educacionais específicos para esse desenvolvimento **não é suficiente** para suprir este aumento da demanda. 
 
 Grande parte deste desequilíbrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem **competências comportamentais** em seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizarem** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** que consigam expandir as suas atividades sem custos relevantes.
 
 Diante deste cenário, os idealizadores do projeto entendem que o **desequilibrio** pontual do mercado configura uma excelente **janela de oportunidades** a ser explorada. 
 
-<br><br>
+<br>
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
 A PBL é candidata natural para desenvolver competências comportamentais. Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. Contudo, a PBL encontra os seguintes **obstáculos** para uma execução em larga escala:
@@ -194,10 +194,10 @@ Os produtos são adquiridos via oferta **avulsa** da ExperiênciaPBL pelo preço
 *As trilhas de carreira para **setores específicos** também podem ser ofertadas, embora devam ser decididas de acordo com a viabilidade logística de cada região.* <br>
 
 **Diferenciais** <br>
-- **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos;
-- **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos;
-- **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos;
-- **Eficácia**. Programas funcionais **setoriais** (trilhas de carreira) aumentam **ainda mais** a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL; <br>
+- **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
+- **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos.
+- **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos.
+- **Eficácia**. Programas funcionais **setoriais** (trilhas de carreira) aumentam **ainda mais** a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL. <br><br>
 
 **Comercialização B2C e B2B** <br>
 A política de **canais B2C** é baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
@@ -261,12 +261,21 @@ As simulações do DRE consideraram as seguintes premissas:
 
 <br><br>
 
-**EXPANSÃO DA EMPRESA** <br>
+**EXPANSÃO** <br>
 Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. 
 
-Para o delineamento, implantação e testes do **sistema educacional**, já prevista a operação *multilanguage* com títulos em **português**, **inglês** e **espanhol**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**. <br><br>
+Para o delineamento, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
 
-**STARTUP DA EMPRESA** <br>
+Os sete componentes do software que compõe o sistema educacional são: 
+- Expert system para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver;
+- *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
+- *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
+- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL dos alunos.
+- *Software system* para assistir e orientar o tutor da sessão presencial.
+- *Machine learning model* capaz de avaliar automaticamente o desempenho dos alunos.
+- *API* para integração com bases de dados de recrutamento profissional.<br><br>
+
+**STARTUP** <br>
 O startup da escola, previsto para o **primeiro ano** de operação, tem agendado: 
 - Testes com um “concierge MVP” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
