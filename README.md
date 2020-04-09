@@ -141,23 +141,26 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
 
 Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**, conforme a sequencia a seguir.<br><br>
 
+<hr/>
 <p align="center">
-<b>Produção de conteúdo automatizada.</b>
+<b>Produção de conteúdo automatizada.</b><br>
 <img src="img/sum_processo1.png"></p>
 
-<br>
+<br><br>
 
+<hr/>
 <p align="center">
-<b>Adaptive learning para acelerar a fase de "self-directed learning.</b>
+<b>Adaptive learning para acelerar a fase de "self-directed learning".</b><br>
 <img src="img/sum_processo2.png"></p>
 
-<br> 
+<br><br>
 
+<hr/>
 <p align="center">
-<b>Sessão presencial atomizada e assistida por software.</b>
+<b>Sessão presencial atomizada e assistida por software.</b><br>
 <img src="img/sum_processo3.png"></p> 
 
-<br> 
+<br><br>
 
 **O TIME** <br>
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
