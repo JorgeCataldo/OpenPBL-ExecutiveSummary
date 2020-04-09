@@ -187,6 +187,48 @@ O modelo de negócios proporciona quatro importantes **atributos diferenciais** 
 **O PLANO DE NEGÓCIOS** <br>
 As simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola. 
 
+<p align="center">
+  <img src="img/dre_vendas.png">
+</p>
+<p align="center"><em>Detalhamento do desempenho comercial.</em>
+</p>
+
+**Premissas de custos e preços no ano 2**
+Custo direto total da SessãoPBL - R$ 701
+Custo com conteúdo - R$ 60 
+Custo com locação da sala - R$ 458 (3 horas x R$ 152)
+Custo com o tutor - R$ 183 (4 horas x R$ 45)
+Custo do serviço de vídeo – R$ 
+Impostos sobre serviços educacionais – 8,65%
+Margem-alvo de contribuição aos custos indiretos - 55%
+Taxa de no show esperada - 10%
+Preço sugerido para a oferta avulsa da SessãoPBL - R$ 323 por aluno.
+
+**Premissas de captação no ano 2**
+Preço da oferta de trilha com 8 SessõesPBL - R$ 2.560 por aluno;
+% da ROB destinada à captação (atração e conversão) - 15% ROB
+% da captação alocado para atração - 70% 
+Leads (SAL*) gerados no ano - 3.466
+Taxa de conversão (VENDAS/SAL) - 10,0%
+Produtos vendidos no ano – 347 trilhas;
+Custo de atração (por SAL) - R$ 27,15
+Custo de conversão (por venda) - R$ 116,37
+Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
+Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês). 
+
+**Premissas de crescimento ano 1-5** 
+Crescimento das vendas (ano 2-1) - 80,0%
+Crescimento das vendas (ano 3-2) - 100,0%
+Crescimento das vendas (ano 4-3) - 100,0%
+Crescimento das vendas (ano 5-4) - 80,0%
+Preço médio das ofertas - R$ 2.206
+
+<p align="center">
+  <img src="img/dre.png">
+</p>
+<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balaço patrimonial.</em>
+</p>
+
 Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expanção das atividades da escola**. Além disso, o modelo já prevê a operação *multilanguage* com títulos em **português**, **inglês** e **espanhol**.
 
 Para o delineamento, implantação e testes do **sistema educacional**, são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**. <br><br>
