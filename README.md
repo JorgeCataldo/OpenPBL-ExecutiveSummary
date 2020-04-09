@@ -164,16 +164,7 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade ger
 <br><br>
 
 **O NEGÓCIO** <br>
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. 
-
-Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
-- Grande abrangência territorial e diversidade de infraestrutura presencial;
-- Grande quantidade e dispersão dos colaboradores envolvidos;
-- Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
-- Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
-- Grande necessidade de engajamento e fidelização.<br><br>
-
-O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. O modelo proposto para escalar a PBL foi utilizado pelos idealizadores como base para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -183,15 +174,13 @@ O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **e
 
 <br>
 
-**Produto base** <br>
-**ExperiênciaPBL** é o curso híbrido (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa**, baseada na discussão de **um problema real** e **típico** da sua carreira. Os serviços educacionais fornecidos ao aluno em cada etapa de uma  ExperiênciaPBL são:
-  - **Etapa de Preparação**: (1) conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo;
-  - **Etapa de discussão**: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho;<br><br>
+**Produtos** <br>
+**ExperiênciaPBL** é o curso híbrido (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa** baseada na discussão de **um problema real** e **típico** da sua carreira.
 
-**Benefícios da ExperiênciaPBL ao público alvo**
-A **participação continuada** do profissional nas **ExperiênciasPBL** promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho;
+Na **etapa de Preparação** o aluno recebe: (1) conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo. Na **etapa de discussão** o aluno recebe: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho;<br><br>
 
-O ganho de empregabilidade é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
+**Benefícios ao público alvo**<br>
+A **participação continuada** do profissional nas **ExperiênciasPBL** promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Esse ganho de empregabilidade é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
 - A estruturação de problemas mal definidos; 
 - A tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance; 
 - A tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -199,26 +188,24 @@ O ganho de empregabilidade é conseguido com o desenvolvimento das seguintes com
 - a atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - A visão orçamentária, atitude empreendedora.<br><br>
 
-**Ofertas para conversão B2C**
-- Oferta **avulsa** da ExperiênciaPBL pelo preço alvo médio de R$ 320,00;
-- Oferta de **trilhas** de ExperiênciasPBL, “curadas” para promover a **capacitação funcional** de profissionais (**Trilhas de Carreira**);
-- A oferta de trilhas de carreira para **setores específicos** deve ser decidida de acordo com a viabilidade logística de cada região. (Analista financeiro **do setor de construção civil**; Técnico em enfermagem **para hospitais neonatal**; Programador full stack **para Fintechs**)
+**Ofertas** <br>
+Os produtos são adquiridos via oferta **avulsa** da ExperiênciaPBL pelo preço alvo médio de R$ 320,00 ou de **trilhas** de ExperiênciasPBL, “curadas” para promover a **capacitação funcional** de profissionais (**Trilhas de Carreira**);
 
-** Diferenciais das ofertas OpenPBL**
+*As trilhas de carreira para **setores específicos** também podem ser ofertadas, embora devam ser decididas de acordo com a viabilidade logística de cada região.* <br>
+
+**Diferenciais** <br>
 - **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos;
 - **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos;
 - **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos;
-- **Eficácia**. Programas funcionais **setoriais** (trilhas de carreira) aumentam **ainda mais** a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL;
+- **Eficácia**. Programas funcionais **setoriais** (trilhas de carreira) aumentam **ainda mais** a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL; <br>
 
-<br>
-
-**Comercialização** <br>
-Política de **canais B2C** baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
+**Comercialização B2C e B2B** <br>
+A política de **canais B2C** é baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
 - Marketplaces digitais: (1) generalistas (Amazon, ...); (2) foco educacional (Udemy, ...);
 - Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
 - Agências recrutadoras: (1) generalistas; (2) especialistas; 
 
-Política de **canais B2B** baseada em parcerias com empresas de representação comercial;
+A Política de **canais B2B** é baseada em parcerias com associações profissionais, cooperativa empresas de representação comercial e organizações diversas.
 
 <br>
 
@@ -284,7 +271,7 @@ O startup da escola, previsto para o **primeiro ano** de operação, tem agendad
 - Testes com um “concierge MVP” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
 - Desenvolvimento dos sistemas de software (CAPEX); 
-- Estudos de mercado e escolha das “escolas funcionais” para oferta inicial na cidade São Paulo;
+- Estudos de mercado e **escolha das “escolas funcionais”** para oferta inicial na cidade São Paulo;
 - Produção do estoque inicial de títulos (CAPEX);
 - Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. <br><br>
 
@@ -302,17 +289,6 @@ A captação considera o *valuation* de R$ 5,4 milhões;
 *1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese">storytelling</a> do seu produto-tipo.* 
-
-...
-Conforme atestam alguns dos casos:
-- PDGs customizados + Complementação para MBAs (*Petróleo Ipiranga*);
-- MBA customizados híbridos - Presencial + AVA + Teleconferência; (*Ambev*)
-- Projetos de LMS + conteúdo customizado + catálogo de cursos + trilhas por competências + engajamento (*Comitê Olímpico Brasileiro 2020*)
-- Universidades corporativas virtuais (*UCB, Nufarm, USPEG...*);  
-- Programa de fidelização de PDVs (*Cresça com Aché*);  
-- Assessment “agendado” em massa (BDQ) + programa híbrido (*Líderes Cariocas da Prefeitura do Rio de Janeiro*);
-- Escolas funcionais inovadoras - TalenTV (*Sambatech*);
-- Fábrica Ágil para contact centers (*Atento*)
 
 <br>
 <p align="center">    
