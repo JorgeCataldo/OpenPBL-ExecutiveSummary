@@ -77,7 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as competências que, segundo gestores de RH de todo o mundo, norteariam o mundo do trabalho dali para frente. Segundo o relatório, mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as competências que, segundo gestores de RH de todo o mundo, norteariam o mundo do trabalho dali para frente. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, mais do que as tradicionais competências técnicas, são as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
 
 No dia-a-dia da atividade profissional, esse conjunto de competências representa o arsenal necessário para que os profissionais não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
@@ -139,7 +139,7 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
 
 <br><br>
 
-Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**, conforme a sequencia a seguir.
+Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**, conforme a sequência a seguir:
 
 <br><br><br>
 
