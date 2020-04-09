@@ -154,7 +154,9 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade ger
 </p><br><br>
 
 **O NEGÓCIO** <br>
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. O modelo proposto para escalar a PBL foi utilizado pelos idealizadores como base para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. 
+
+O modelo proposto para escalar a PBL foi utilizado pelos idealizadores como base para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -209,7 +211,7 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 </p>
 
 <br>
-As simulações das vendas consideraram as seguintes premissas:
+As simulações das vendas consideraram as seguintes premissas:<br>
 
 **Premissas de captação no ano 2**
 - Preço da oferta de trilha com 8 SessõesPBL - R$ 2.560 por aluno;
@@ -237,7 +239,7 @@ As simulações das vendas consideraram as seguintes premissas:
 </p>
 
 <br><br>
-As simulações do DRE consideraram as seguintes premissas:
+As simulações do DRE consideraram as seguintes premissas:<br>
 
 **Premissas de custos e preços no ano 2**
 - Custo direto total da SessãoPBL - R$ 701
@@ -251,12 +253,12 @@ As simulações do DRE consideraram as seguintes premissas:
 - Preço sugerido para a oferta avulsa da SessãoPBL - R$ 323 por aluno.<br><br>
 
 **EXPANSÃO** <br>
-Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima (*"investimento em conteúdo -> receita no quinto ano"*) poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. 
+Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. 
 
 Para o delineamento, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
 
-Os sete componentes do software que compõe o sistema educacional são: 
-- Expert system para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver;
+Os **sete** componentes do software que compõem o sistema educacional são: 
+- *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver;
 - *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
 - *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
 - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL dos alunos.
