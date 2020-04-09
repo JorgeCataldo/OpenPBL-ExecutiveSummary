@@ -134,33 +134,32 @@ Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportuni
 
 <p align="center">
   <img src="img/sum_quadro3.png">
-<p align="center">
-    <em>Intervenção em cada fase da execução da PBL.</em>
+  <em>Intervenção em cada fase da execução da PBL.</em>
 </p>
 
 <br><br>
 
 Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**, conforme a sequencia a seguir.<br><br>
 
+
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
-<br>
+<br><br>
 <img src="img/sum_processo1.png">
 <em>Sistema especialista para extração de conhecimento dos profissionais experientes.</em>
 </p>
 
 <br><br>
 
-<hr/>
 <p align="center">
-<b>APRENDIZAGEM ADAPTATIVA</b><br>
+<b>APRENDIZAGEM ADAPTATIVA</b>
+<br>
 <img src="img/sum_processo2.png">
 <em>Adaptive learning para acelerar a fase de "self-directed learning".</em>
 </p>
 
 <br><br>
 
-<hr/>
 <p align="center">
 <b>ATOMIZAÇÃO DA DISCUSSÃO</b><br>
 <img src="img/sum_processo3.png">
