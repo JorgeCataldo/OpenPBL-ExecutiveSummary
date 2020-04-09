@@ -74,12 +74,14 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 ### OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do Plano de Negócios para captação de recursos do *road show* 2020. <br><br>
+Resumo da execução do Plano de Negócios para captação de recursos (*road show* 2020.1). <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
 Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as competências profissionais que iriam nortear o mundo do trabalho dali para frente. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a> que consolida a opinião de gestores de RH de todo o mundo, mais do que as tradicionais competências técnicas, serão as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
 
-No dia-a-dia, essas competências compõem o arsenal necessário para que os profissionais de diversas áreas, não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+No dia-a-dia, essas competências compõem o arsenal necessário para que os profissionais de diversas áreas, não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. Assim, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** desenvolvam competências como "resolução de problemas complexos", "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", dentre outras. 
+
+<br><br>
 
 <table style="width:100%">
   <tr>
@@ -92,9 +94,10 @@ No dia-a-dia, essas competências compõem o arsenal necessário para que os pro
 
 <br> 
 
-Mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** desenvolvam competências como "resolução de problemas complexos", "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", dentre outras. Competências deste tipo são frequentemente observadas em profissionais **experientes**, que as desenvolveram ao longo da carreira com a utilização **contínua** de suas competências **técnicas** nas **situações reais** do dia-a-dia. Contudo, cada profissional as utiliza com intensidades diferentes, uma vez que foram desenvolvidas de acordo com as **habilidades comportamentais individuais** e preferências de cada um.
+**Desenvolvendo competências comportamentais**
+Competências comportamentais são frequentemente observadas em profissionais **experientes**. A utilização **contínua** das competências **técnicas** nas **situações reais** do dia-a-dia promove naturalmente esse desenvolvimento. Contudo, cada profissional as utiliza com intensidades diferentes, uma vez que são desenvolvidas de acordo com as **habilidades comportamentais individuais** e preferências de cada um.
 
-Além da **experiência** ao longo da carreira, as competências comportamentais **profissionais** podem ser desenvolvidas em **programas educacionais** específicos, que buscam simular estas situações reais em ambientes controlados, afim de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. <br><br>
+Além da **experiência profissional**, as competências comportamentais podem ser desenvolvidas em **programas educacionais** específicos, que buscam simular estas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -107,25 +110,28 @@ Além da **experiência** ao longo da carreira, as competências comportamentais
 
 <br>
 
-Apesar da crescente busca das empresas por **profissionais** e **entrantes no mercado de trabalho** que tenham as competências comportamentais elencadas no relatório do Forum econômico Mundial, a oferta de programas educacionais específicos para esse desenvolvimento **não é suficiente** para suprir este aumento da demanda. Grande parte deste desequilíbrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem **competências comportamentais** em seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizarem** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** que consigam expandir as suas atividades sem custos relevantes.
+**Desequilíbrio**
+Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho com as competências comportamentais elencadas no relatório do Forum econômico Mundial, a oferta de programas educacionais específicos para esse desenvolvimento **não é suficiente** para suprir este aumento da demanda. 
 
-Diante deste cenário, os idealizadores do projeto entendem que o **desequilibrio** pontual do mercado, em conjunto com o surgimento de **novas tecnologias** aplicáveis ao processo educacional, configuram uma excelente **janela de oportunidades** a ser explorada.<br><br>
+Grande parte deste desequilíbrio no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem **competências comportamentais** em seus alunos operam modelos de negócios que não possuem **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente atuação das **Edtechs** no sentido de **popularizarem** toda sorte de programas educacionais foi capaz de criar **sistemas de ensino** que consigam expandir as suas atividades sem custos relevantes.
+
+Diante deste cenário, os idealizadores do projeto entendem que o **desequilibrio** pontual do mercado configura uma excelente **janela de oportunidades** a ser explorada. 
+
+<br><br>
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
-A PBL é candidata natural para reduzir o desequilibrio do mercado educacional entre demanda e oferta de programas específicos para o desemvolvomento de competências compportamentais profissionais. Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. Entretanto, a PBL encontra os seguintes **obstáculos** para uma execução em larga escala:
+A PBL é candidata natural para desenvolver competências comportamentais. Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. Contudo, a PBL encontra os seguintes **obstáculos** para uma execução em larga escala:
 - O processo de execução da PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e, assim, aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, um **time de experientes executivos** do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**.<br><br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional,  os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo proposto está em sua propriedade de escalar **cada etapa** do processo de execução da PBL de forma **diferente**:
+
+<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
 </p>
-
-<br><br>
-
-Diferentemente do paradigma de execução 100% digital, a essência inovadora do modelo proposto está em sua propriedade de escalar **cada etapa** do processo de execução da PBL de forma **diferente**:
 
 <br><br><br>
 
@@ -157,15 +163,16 @@ Diferentemente do paradigma de execução 100% digital, a essência inovadora do
 
 <br><br>
 
-**O TIME** <br>
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
+**O NEGÓCIO** <br>
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. 
+
+Possuem experiência na comercialização e implantação de **projetos de capacitação corporativa** de: 
 - Grande abrangência territorial e diversidade de infraestrutura presencial;
 - Grande quantidade e dispersão dos colaboradores envolvidos;
 - Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
 - Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
 - Grande necessidade de engajamento e fidelização.<br><br>
 
-**O NEGÓCIO** <br>
 O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
 
 <p align="center">
@@ -176,15 +183,13 @@ O modelo inovador proposto é a base da criação da Edtech **OpenPBL**, uma **e
 
 <br>
 
-**Produto base**
-**ExperiênciaPBL** é o curso híbrido (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa**, baseada na discussão de **um problema real** e **típico** da sua carreira;
-
-Os **serviços educacionais** contemplados na ExperiênciaPBL fornecidos ao aluno em cada etapa são:
-  - **Preparação**: (1) conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo;
-  - **Discussão**: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho;
+**Produto base** <br>
+**ExperiênciaPBL** é o curso híbrido (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa**, baseada na discussão de **um problema real** e **típico** da sua carreira. Os serviços educacionais fornecidos ao aluno em cada etapa de uma  ExperiênciaPBL são:
+  - **Etapa de Preparação**: (1) conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo;
+  - **Etapa de discussão**: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho;<br><br>
 
 **Benefícios da ExperiênciaPBL ao público alvo**
-- A **participação continuada** do profissional em **ExperiênciasPBL** promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho;
+A **participação continuada** do profissional nas **ExperiênciasPBL** promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho;
 
 O ganho de empregabilidade é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
 - A estruturação de problemas mal definidos; 
