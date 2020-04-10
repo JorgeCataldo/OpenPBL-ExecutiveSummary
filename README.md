@@ -74,10 +74,12 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 ### OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do Plano de Negócios para captação de recursos (*road show* 2020.1). <br><br>
+Resumo da execução do Plano de Negócios (*road show* para captação de recursos 2020.1). <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as competências profissionais que iriam nortear o mundo do trabalho dali para frente. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a> que consolida a opinião de gestores de RH de todo o mundo, serão as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. Na prática, essas competências compõem o arsenal necessário para que os profissionais de diversas áreas, não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. 
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial que consolidou a opinião de gestores de RH de todo o mundo, elencou as dez competências profissionais mais úteis para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, serão as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
+
+Na prática, cada uma dessas competências é parte do arsenal necessário para que profissionais de diversas áreas, não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. 
 
 <br><br>
 
@@ -92,12 +94,12 @@ Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as compet
 
 <br> 
 
-**Desenvolvendo competências comportamentais**
-De fato, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** tenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", dentre outras. 
+**Desequilíbrio**<br>
+Se por um lado, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** tenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", dentre outras. Por outro lado, o desenvolvimento destas competências não acompanha este crescimento. 
 
-Competências comportamentais são frequentemente observadas em profissionais **experientes**. A utilização **contínua** das competências **técnicas** nas **situações reais** do dia-a-dia promove naturalmente esse desenvolvimento. Contudo, cada profissional as utiliza com intensidades diferentes, uma vez que são desenvolvidas de acordo com as **habilidades comportamentais individuais** e preferências de cada um.
+A experiência acumulada com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia promove naturalmente esse desenvolvimento. 
 
-Além da **experiência**, as competências comportamentais podem ser desenvolvidas em **programas educacionais** específicos, que buscam simular estas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
+Além da experiência do dia-a-dia profissional, as competências comportamentais podem ser desenvolvidas em **programas educacionais** específicos, que buscam simular estas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -110,8 +112,9 @@ Além da **experiência**, as competências comportamentais podem ser desenvolvi
 
 <br>
 
-**Desequilíbrio**<br>
-Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho com as competências comportamentais cada vez mais complexas, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. Grande parte deste **desequilíbrio** no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
+Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho dotados das competências comportamentais, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. 
+
+Grande parte deste **desequilíbrio** no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
 
 Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio atual do mercado configura uma excelente **janela de oportunidades** a ser explorada. 
 
@@ -122,7 +125,9 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 - Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.<br><br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**.
+
+Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
@@ -152,9 +157,9 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atu
 </p><br><br>
 
 **O NEGÓCIO** <br>
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. 
+Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
 
-O modelo proposto para escalar a PBL foi utilizado pelos idealizadores como base para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
+O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizadores para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -165,15 +170,19 @@ O modelo proposto para escalar a PBL foi utilizado pelos idealizadores como base
 <br>
 
 **Produtos** <br>
-O produto base da escola é um **curso híbrido** (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa** baseada na discussão de **um problema real** e **típico** da sua carreira. 
+Os produtos da escola têm por base o formato de um **curso híbrido** (semi-presencial), onde o aluno participa de uma experiência de aprendizagem baseada na discussão de **um problema real** e **típico** da sua carreira. 
 
-Para garantir a experiência PBL completa, o curso-base é composto de: 
-- Na **etapa de Preparação** o aluno (1) recebe o conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo. 
-- Na **etapa de discussão** o aluno recebe: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho.
+Para garantir uma experiência PBL **completa**, cada curso é composto de: 
+- Uma etapa de **preparação** online, onde o aluno (1) recebe o conteúdo descritivo do problema, (2) realiza testes de capacitação técnica, (3) acessa material de apoio e (4) recebe curadoria **adaptativa** com recomendações de conteúdo adicional. 
+- Uma etapa de **discussão** presencial, onde o aluno acessa: (1) infraestrutura física e facilities para uma turma com 10 alunos, (2) tutoria da sessão, (3) registro audiovisual da sua participação e, posteriormente, (4) *feedback* com avaliação do seu desempenho.
 
-O curso-base, ou **CursoPBL**, que representa a menor experiência PBL completa possível, pode ser adquirido de forma **avulsa** pelo preço alvo médio de R$ 320,00 ou em **trilhas** de cursos, “curadas” para promover a capacitação para uma determinada função profissionais (**Trilhas de Carreira**). A oferta de trilhas desta natureza configura a principal ação estratégica para se organizar em torno de **Escolas Funcionais** por carreira e não por áreas do conhecimento como é usual no mercado educacional.
+Cada problema específico é tratado como um **título**. 
 
-Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região. <br><br>
+Cada **título** pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, “curadas” para promover a capacitação para uma determinada função de uma carreira profissional. 
+
+A oferta dos produtos educacionais no formato de **trilhas de carreira** configura a principal ação estratégica para a organização da OpenPBL em torno de **Escolas Funcionais** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
+
+Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.<br><br>
 
 **Benefícios ao público alvo**<br>
 A **participação continuada** do aluno nas experiências PBL promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Esse ganho é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
@@ -185,7 +194,7 @@ A **participação continuada** do aluno nas experiências PBL promove um **ganh
 - A visão orçamentária, atitude empreendedora.<br><br>
 
 **Diferenciais** <br>
-O diferenciais das trilhas de uma Escola Funcional OpenPBL em comparação aos demais cursos no mercado educacional são:
+Os diferenciais das trilhas de carreira OpenPBL, quando comparadas com outros programas educacionais para desenvolvimento de competências comportamentais são:
 - **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
 - **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos.
 - **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos.
@@ -205,26 +214,26 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 <p align="center">
   <img src="img/dre.png">
 </p>
-<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balaço patrimonial.</em>
+<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balanço patrimonial resultantes de simulação do modelo de negócios.</em>
 </p><br><br>
 
-As simulações das vendas consideraram as seguintes premissas:<br>
+As simulações utilizaram as seguintes premissas de **atração** e **conversão**:<br>
 
 **Premissas de captação no ano 2**
-- Preço da oferta de trilha com 8 CursosPBL - R$ 2.560 por aluno;
+- Preço da oferta de trilha com **8 Títulos** - R$ 2.560 por aluno;
 - % da ROB destinada à captação (atração e conversão) - 15% ROB
 - % da captação alocado para atração - 70% 
-- Leads (tipo "SAL") gerados no ano - 3.466
-- Taxa de conversão (VENDAS/SAL) - 10,0%
-- Produtos vendidos no ano – 347 trilhas
+- Leads (tipo "SAL") gerados no ano - 3.466 
+- Taxa de conversão (VENDAS/SAL) - 10,0% 
+- Produtos vendidos no ano – 347 trilhas 
 - Custo de atração (por SAL) - R$ 27,15
 - Custo de conversão (por venda) - R$ 116,37
 - Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
 - Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).
 
-*SAL-Sales accepted leads* <br><br>
+*SAL -> Sales accepted leads* <br><br>
 
-**Premissas de crescimento ano 1-5** 
+**Premissas de crescimento das vendas** 
 - Crescimento das vendas (ano 2-1) - 80,0%
 - Crescimento das vendas (ano 3-2) - 100,0%
 - Crescimento das vendas (ano 4-3) - 100,0%
@@ -233,27 +242,27 @@ As simulações das vendas consideraram as seguintes premissas:<br>
 <p align="center">
   <img src="img/dre_vendas.png">
 </p>
-<p align="center"><em>Desempenho comercial de acordo com as premissas de captação e crescimento.</em>
+<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
 </p><br><br>
 
 As simulações do DRE consideraram ainda as seguintes premissas:<br>
 
 **Premissas de custos e preços no ano 2**
-- Custo direto total da SessãoPBL - R$ 701
-- Custo com conteúdo - R$ 60 
+- Custo direto total para execução de um título - R$ 701
+- Custo com conteúdo (amortização) - R$ 60 
 - Custo com locação da sala - R$ 458 (3 horas x R$ 152)
 - Custo com o tutor - R$ 183 (4 horas x R$ 45)
 - Custo do serviço de vídeo – residual 
 - Impostos sobre serviços educacionais – 8,65%
-- Taxa de no show esperada - 10%
-- Preço sugerido para a oferta avulsa do CursoPBL - R$ 323 por aluno.<br><br>
+- Taxa de "*no show*" esperada - 10%
+- Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br><br>
 
 **EXPANSÃO** <br>
-Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima poderá ser facilmente replicado para garantir uma rápida **expansão das atividades da escola**. 
+Graças ao modelo escalável, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento prévio de um sistema de software para automatizar seus processos e etapas.
 
-Para desenho, implantação e testes do sistema educacional são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) em **desenvolvimento de software**.
+Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) em **desenvolvimento de software**. 
 
-Os **sete** componentes do software que compõem o sistema educacional são: 
+Os **sete** componentes que compõem o software do sistema educacional são: 
 - *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver.
 - *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
 - *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
@@ -263,7 +272,7 @@ Os **sete** componentes do software que compõem o sistema educacional são:
 - *API* para integração com bases de dados de recrutamento profissional.<br><br>
 
 **STARTUP** <br>
-O *startup* da escola, previsto para o **primeiro ano** de operação, tem como objetivos: 
+O *startup* da escola, previsto para o **primeiro ano** de operação da escola, tem como objetivos: 
 - Testes com um “**concierge MVP**” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
 - Desenvolvimento dos sistemas de software (CAPEX); 
@@ -276,9 +285,9 @@ Todas as etapas de expansão previstas no plano serão financiadas por **capital
 
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
 
-A captação atual considera o *valuation* de R$ 5,4 milhões. 
+A captação atual considera o *valuation* atual de R$ 5,4 milhões. 
 
 ... 
 
