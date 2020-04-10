@@ -208,9 +208,7 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
   <img src="img/dre.png">
 </p>
 <p align="center"><em>Demostrativo de resultados, geração de caixa livre e balaço patrimonial.</em>
-</p>
-
-<br><br>
+</p><br><br>
 
 As simulações das vendas consideraram as seguintes premissas:<br>
 
@@ -237,9 +235,7 @@ As simulações das vendas consideraram as seguintes premissas:<br>
   <img src="img/dre_vendas.png">
 </p>
 <p align="center"><em>Detalhamento do desempenho comercial de acordo com as premissas de captação e crescimento.</em>
-</p>
-
-<br><br>
+</p><br><br>
 
 As simulações do DRE consideraram as seguintes premissas:<br>
 
