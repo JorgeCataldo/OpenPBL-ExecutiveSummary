@@ -210,7 +210,8 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 <p align="center"><em>Demostrativo de resultados, geração de caixa livre e balaço patrimonial.</em>
 </p>
 
-<br>
+<br><br>
+
 As simulações das vendas consideraram as seguintes premissas:<br>
 
 **Premissas de captação no ano 2**
@@ -223,7 +224,7 @@ As simulações das vendas consideraram as seguintes premissas:<br>
 - Custo de atração (por SAL) - R$ 27,15
 - Custo de conversão (por venda) - R$ 116,37
 - Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
-- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês). 
+- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).<br>
 
 **Premissas de crescimento ano 1-5** 
 - Crescimento das vendas (ano 2-1) - 80,0%
@@ -239,6 +240,7 @@ As simulações das vendas consideraram as seguintes premissas:<br>
 </p>
 
 <br><br>
+
 As simulações do DRE consideraram as seguintes premissas:<br>
 
 **Premissas de custos e preços no ano 2**
