@@ -222,7 +222,7 @@ As simulações das vendas consideraram as seguintes premissas:<br>
 - Custo de atração (por SAL) - R$ 27,15
 - Custo de conversão (por venda) - R$ 116,37
 - Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
-- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).<br>
+- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).<br><br>
 
 **Premissas de crescimento ano 1-5** 
 - Crescimento das vendas (ano 2-1) - 80,0%
