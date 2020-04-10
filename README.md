@@ -74,12 +74,12 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 ### OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do Plano de Negócios (*road show* para captação de recursos 2020.1). <br><br>
+Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
 **O PROBLEMA E A OPORTUNIDADE** <br>
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial que consolidou a opinião de gestores de RH de todo o mundo, elencou as dez competências profissionais mais úteis para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, serão as **competências comportamentais** que farão a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial, que consolidou a opinião de gestores de RH de todo o mundo, elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são as **competências comportamentais** que determinam a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
 
-Na prática, cada uma dessas competências é parte do arsenal necessário para que profissionais de diversas áreas, não só alcancem os **resultados esperados** pelas empresas, mas que o façam da forma **mais eficiente** possível. 
+Na prática, cada uma das competências listadas compõe o arsenal necessário para que os profissionais das diversas áreas, não só alcancem os **resultados esperados** por suas empresas e organizações, mas que o façam da forma **mais eficiente** possível. 
 
 <br><br>
 
@@ -95,11 +95,9 @@ Na prática, cada uma dessas competências é parte do arsenal necessário para 
 <br> 
 
 **Desequilíbrio**<br>
-Se por um lado, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** tenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", dentre outras. Por outro lado, o desenvolvimento destas competências não acompanha este crescimento. 
+Se por um lado, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** tenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram dificuldades para desenvolve-las. 
 
-A experiência acumulada com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia promove naturalmente esse desenvolvimento. 
-
-Além da experiência do dia-a-dia profissional, as competências comportamentais podem ser desenvolvidas em **programas educacionais** específicos, que buscam simular estas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
+A **experiência** acumulada com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento destas competências, mas demanda tempo. Além isso, alguns **programas educacionais** específicos buscam simular algumas destas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -112,7 +110,7 @@ Além da experiência do dia-a-dia profissional, as competências comportamentai
 
 <br>
 
-Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho dotados das competências comportamentais, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. 
+Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho dotados de competências comportamentais relevantes, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. 
 
 Grande parte deste **desequilíbrio** no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
 
@@ -121,9 +119,9 @@ Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio 
 <br>
 
 **PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para uma **execução** em larga escala:
-- Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docente e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
-- o modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para uma **execução** em larga escala:
+- Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docentes e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
+- O modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
 Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**.
 
@@ -164,28 +162,26 @@ O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizado
 <p align="center">
   <img src="img/sum_quadro2.png">
 </p>
-<p align="center"><em>Detalhamento do público-alvo da OpenPBL em função das necessidades.</em>
+<p align="center"><em>Detalhamento do público-alvo da OpenPBL em função das suas necessidades.</em>
 </p>
 
 <br>
 
 **Produtos** <br>
-Os produtos da escola têm por base o formato de um **curso híbrido** (semi-presencial), onde o aluno participa de uma experiência de aprendizagem baseada na discussão de **um problema real** e **típico** da sua carreira. 
+Todos os produtos da escola têm o **formato** de um **curso híbrido** (semi-presencial), onde o aluno participa de uma experiência de aprendizagem baseada na discussão de **um problema real** e **típico** da sua carreira. 
 
-Para garantir uma experiência PBL **completa**, cada curso é composto de: 
-- Uma etapa de **preparação** online, onde o aluno (1) recebe o conteúdo descritivo do problema, (2) realiza testes de capacitação técnica, (3) acessa material de apoio e (4) recebe curadoria **adaptativa** com recomendações de conteúdo adicional. 
-- Uma etapa de **discussão** presencial, onde o aluno acessa: (1) infraestrutura física e facilities para uma turma com 10 alunos, (2) tutoria da sessão, (3) registro audiovisual da sua participação e, posteriormente, (4) *feedback* com avaliação do seu desempenho.
+Para garantir uma experiência PBL **completa**, o **formato padronizado** prevê: 
+- Uma etapa de preparação **online**, onde o aluno: (1) recebe o conteúdo descritivo do problema, (2) realiza testes de capacitação técnica, (3) acessa material de apoio e (4) recebe curadoria **adaptativa** com recomendações de conteúdo adicional. 
+- Uma etapa de discussão **presencial**, onde o aluno: (1) acessa infraestrutura física e facilities para uma turma com 10 alunos, (2) tutoria da sessão, (3) registro audiovisual da sua participação e, posteriormente, (4) *feedback* com avaliação do seu desempenho.
 
-Cada problema específico é tratado como um **título**. 
+Cada problema específico abordado nesse formato padronizado determina a oferta de um **título**. Cada **título** pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, que são “curadas” para promover a capacitação para uma determinada função de uma carreira profissional. 
 
-Cada **título** pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, “curadas” para promover a capacitação para uma determinada função de uma carreira profissional. 
+A oferta dos produtos educacionais no formato de **trilhas de carreira** é a principal ação estratégica para a organização da OpenPBL em torno de **Escolas Funcionais** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
 
-A oferta dos produtos educacionais no formato de **trilhas de carreira** configura a principal ação estratégica para a organização da OpenPBL em torno de **Escolas Funcionais** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
-
-Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.<br><br>
+*(i) Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.* <br><br>
 
 **Benefícios ao público alvo**<br>
-A **participação continuada** do aluno nas experiências PBL promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Esse ganho é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
+A **participação continuada** do aluno em experiências PBL promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Na OpenPBL, esse ganho é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
 - A estruturação de problemas mal definidos; 
 - A tomada de decisão envolvendo incertezas e objetivos conflitantes; 
 - A tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -194,7 +190,7 @@ A **participação continuada** do aluno nas experiências PBL promove um **ganh
 - A visão orçamentária, atitude empreendedora.<br><br>
 
 **Diferenciais** <br>
-Os diferenciais das trilhas de carreira OpenPBL, quando comparadas com outros programas educacionais para desenvolvimento de competências comportamentais são:
+Os diferenciais das trilhas de carreira baseadas em PBL, quando comparadas com programas educacionais tradicionais para desenvolvimento de competências comportamentais, são:
 - **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
 - **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos.
 - **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos.
