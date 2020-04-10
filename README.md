@@ -171,7 +171,7 @@ Para garantir a experiência PBL completa, o curso-base é composto de:
 - Na **etapa de Preparação** o aluno (1) recebe o conteúdo descritivo do problema, (2) avaliações de capacitação técnica, (3) material de apoio e (4) curadoria **adaptativa** com recomendações de conteúdo. 
 - Na **etapa de discussão** o aluno recebe: (1) infraestrutura física e facilities para a sessão presencial, (2) tutoria da sessão presencial, (3) registro audiovisual da participação e (4) *feedback* do desempenho.
 
-O curso-base, que representa a menor experiência PBL completa possível, pode ser adquirido via oferta **avulsa** pelo preço alvo médio de R$ 320,00 ou via oferta de **trilhas** de cursos, “curadas” para promover a capacitação para uma determinada função profissionais (**Trilhas de Carreira**). A oferta de trilhas desta natureza configura a principal ação estratégica para se organizar em torno de **Escolas Funcionais** por carreira e não por áreas do conhecimento como é usual no mercado educacional.
+O curso-base, ou **CursoPBL**, que representa a menor experiência PBL completa possível, pode ser adquirido de forma **avulsa** pelo preço alvo médio de R$ 320,00 ou em **trilhas** de cursos, “curadas” para promover a capacitação para uma determinada função profissionais (**Trilhas de Carreira**). A oferta de trilhas desta natureza configura a principal ação estratégica para se organizar em torno de **Escolas Funcionais** por carreira e não por áreas do conhecimento como é usual no mercado educacional.
 
 Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região. <br><br>
 
@@ -185,23 +185,22 @@ A **participação continuada** do aluno nas experiências PBL promove um **ganh
 - A visão orçamentária, atitude empreendedora.<br><br>
 
 **Diferenciais** <br>
+O diferenciais das trilhas de uma Escola Funcional OpenPBL em comparação aos demais cursos no mercado educacional são:
 - **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
 - **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos.
 - **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos.
 - **Eficácia**. Programas funcionais **setoriais** (trilhas de carreira) aumentam **ainda mais** a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL. <br><br>
 
-**Comercialização B2C e B2B** <br>
-A política de **canais B2C** é baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
-- Marketplaces digitais: (1) generalistas (Amazon, ...); (2) foco educacional (Udemy, ...);
+**Canais de comercialização B2C e B2B** <br>
+A política de **canais B2C** é baseada em parcerias com empresas **ativadoras de tráfego** e **conversão** do público-alvo. Entre elas:
+- Marketplaces digitais: (1) generalistas (*Amazon, ...*); (2) foco educacional (*Udemy, ...*);
 - Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
 - Agências recrutadoras: (1) generalistas; (2) especialistas; 
 
-A Política de **canais B2B** é baseada em parcerias com associações profissionais, cooperativa empresas de representação comercial e organizações diversas.
-
-<br>
+A Política de **canais B2B** é baseada em parcerias com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
 
 **O PLANO DE NEGÓCIOS** <br>
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 na **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
 
 <p align="center">
   <img src="img/dre.png">
@@ -212,50 +211,50 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 As simulações das vendas consideraram as seguintes premissas:<br>
 
 **Premissas de captação no ano 2**
-- Preço da oferta de trilha com 8 SessõesPBL - R$ 2.560 por aluno;
+- Preço da oferta de trilha com 8 CursosPBL - R$ 2.560 por aluno;
 - % da ROB destinada à captação (atração e conversão) - 15% ROB
 - % da captação alocado para atração - 70% 
-- Leads (SAL*) gerados no ano - 3.466
+- Leads (tipo "SAL") gerados no ano - 3.466
 - Taxa de conversão (VENDAS/SAL) - 10,0%
-- Produtos vendidos no ano – 347 trilhas;
+- Produtos vendidos no ano – 347 trilhas
 - Custo de atração (por SAL) - R$ 27,15
 - Custo de conversão (por venda) - R$ 116,37
 - Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
-- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).<br><br>
+- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).
+
+*SAL-Sales accepted leads* <br><br>
 
 **Premissas de crescimento ano 1-5** 
 - Crescimento das vendas (ano 2-1) - 80,0%
 - Crescimento das vendas (ano 3-2) - 100,0%
 - Crescimento das vendas (ano 4-3) - 100,0%
-- Crescimento das vendas (ano 5-4) - 80,0%
-- Preço médio das ofertas - R$ 2.206 <br><br>
+- Crescimento das vendas (ano 5-4) - 80,0% <br><br>
 
 <p align="center">
   <img src="img/dre_vendas.png">
 </p>
-<p align="center"><em>Detalhamento do desempenho comercial de acordo com as premissas de captação e crescimento.</em>
+<p align="center"><em>Desempenho comercial de acordo com as premissas de captação e crescimento.</em>
 </p><br><br>
 
-As simulações do DRE consideraram as seguintes premissas:<br>
+As simulações do DRE consideraram ainda as seguintes premissas:<br>
 
 **Premissas de custos e preços no ano 2**
 - Custo direto total da SessãoPBL - R$ 701
 - Custo com conteúdo - R$ 60 
 - Custo com locação da sala - R$ 458 (3 horas x R$ 152)
 - Custo com o tutor - R$ 183 (4 horas x R$ 45)
-- Custo do serviço de vídeo – R$ 
+- Custo do serviço de vídeo – residual 
 - Impostos sobre serviços educacionais – 8,65%
-- Margem-alvo de contribuição aos custos indiretos - 55%
 - Taxa de no show esperada - 10%
-- Preço sugerido para a oferta avulsa da SessãoPBL - R$ 323 por aluno.<br><br>
+- Preço sugerido para a oferta avulsa do CursoPBL - R$ 323 por aluno.<br><br>
 
 **EXPANSÃO** <br>
-Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. 
+Após o desenvolvimento de um **sistema educacional** para automatizar o modelo, o **desempenho** simulado acima poderá ser facilmente replicado para garantir uma rápida **expansão das atividades da escola**. 
 
-Para o delineamento, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (capex) em **desenvolvimento de software**.
+Para desenho, implantação e testes do sistema educacional são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) em **desenvolvimento de software**.
 
 Os **sete** componentes do software que compõem o sistema educacional são: 
-- *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver;
+- *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver.
 - *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
 - *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
 - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL dos alunos.
@@ -264,8 +263,8 @@ Os **sete** componentes do software que compõem o sistema educacional são:
 - *API* para integração com bases de dados de recrutamento profissional.<br><br>
 
 **STARTUP** <br>
-O startup da escola, previsto para o **primeiro ano** de operação, tem agendado: 
-- Testes com um “concierge MVP” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
+O *startup* da escola, previsto para o **primeiro ano** de operação, tem como objetivos: 
+- Testes com um “**concierge MVP**” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
 - Desenvolvimento dos sistemas de software (CAPEX); 
 - Estudos de mercado e **escolha das “escolas funcionais”** para oferta inicial na cidade São Paulo;
@@ -279,7 +278,7 @@ Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
 
-A captação considera o *valuation* de R$ 5,4 milhões;
+A captação atual considera o *valuation* de R$ 5,4 milhões. 
 
 ... 
 
